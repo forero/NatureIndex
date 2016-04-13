@@ -2711,4 +2711,4 @@
 2707.	Carthage College	4	0.88	0.63
 2708.	Norwegian Institute for Agricultural and Environmental Research (Bioforsk)	4	0.63	0.63
 2709.	Queensland Museum (QM)	1	0.63	0.63
-2710.	Abdelmalek Essaâdi University	
+
