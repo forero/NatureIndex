@@ -1,3 +1,4 @@
+# Rank, institution AbsoluteCount FractionalCount WeightedFractionalCount
 1. Chinese Academy of Sciences (CAS) 3449	1522.14	1357.82
 2.	Harvard University	2622	856	772.33
 3.	French National Centre for Scientific Research (CNRS)	4937	847.63	699.45
