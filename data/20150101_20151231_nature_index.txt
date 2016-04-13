@@ -1,0 +1,2713 @@
+1. Chinese Academy of Sciences (CAS) 3449	1522.14	1357.82
+2.	Harvard University	2622	856	772.33
+3.	French National Centre for Scientific Research (CNRS)	4937	847.63	699.45
+4. Max Planck Society 3110	894.83	655.67
+5.	Stanford University	1514	569.55	530.83
+6.	The University of Tokyo (UTokyo)	1377	545.34	487.03
+7.	Massachusetts Institute of Technology (MIT)	1627	520.16	483.62
+8. Helmholtz Association of German Research Centres 1663	419.05	413.71
+9.	University of Oxford	1373	447.68	398.38
+10.	University of Cambridge	1568	485.64	390.54
+11.	University of California Berkeley (UC Berkeley)	1346	427.90	357.84
+12. National Institutes of Health (NIH) 784	331.69	331.69
+13.	Swiss Federal Institute of Technology Zurich (ETH Zurich)	948	345.24	323.06
+14.	University of California, San Diego (UC San Diego)	847	318.05	306.13
+15.	University of Michigan (U-M)	944	349.93	304.18
+16.	Peking University (PKU)	1113	336.49	300.39
+17.	Yale University	891	325.60	297.64
+18.	University of Toronto (U of T)	850	306.96	274.99
+19.	Kyoto University	715	285.30	270.40
+20.	University of California Los Angeles (UCLA)	838	288.13	270.10
+21.	Columbia University in the City of New York (CU)	913	302.88	267.22
+22.	Northwestern University (NU)	615	273.69	261.27
+23.	University of Washington (UW)	866	279.38	258.31
+24.	University of Pennsylvania (Penn)	646	262.46	257.16
+25.	Nanjing University (NJU)	666	288.94	253.62
+26.	University of Wisconsin-Madison (UW-Madison)	710	264.52	246.67
+27.	California Institute of Technology (Caltech)	1306	341.74	246.27
+28.	The Johns Hopkins University (JHU)	839	269.52	232.04
+29.	Tsinghua University (TH)	785	236.75	231.33
+30.	The University of Texas at Austin (UT Austin)	670	266.59	231.21
+31.	University of Science and Technology of China (USTC)	661	246.94	229.13
+32.	Cornell University	712	248.18	224.72
+33.	Princeton University	720	272.49	223.42
+34.	Swiss Federal Institute of Technology in Lausanne (EPFL)	689	216.81	215.28
+35.	University College London (UCL)	972	250.97	214.83
+36.	University of Illinois at Urbana-Champaign (UIUC)	615	223.29	208.95
+37.	Nanyang Technological University (NTU)	423	207.94	207.83
+38. Spanish National Research Council (CSIC) 1667	282.19	201.21
+39.	Imperial College London (ICL)	838	213.20	199.52
+40.	University of Minnesota (UMN)	583	206.42	194.37
+41.	Osaka University	532	197.34	193.89
+42.	University of California Santa Barbara (UCSB)	589	197.55	184.72
+43.	Zhejiang University (ZJU)	386	183.62	183.62
+44.	Fudan University	374	179.90	177.65
+45.	Tohoku University	431	190.29	177.02
+46.	National University of Singapore (NUS)	465	173.48	172.66
+47.	University of California San Francisco (UCSF)	467	171.40	171.14
+48.	The University of Chicago (UChicago)	721	197.82	168.44
+49.	Ludwig Maximilian University of Munich (LMU)	691	186.42	166.06
+50.	Duke University	507	163.18	163.16
+51. Indian Institutes of Technology (IITs)
+302	170.68	162.59
+52.	McGill University	576	170.70	162.07
+53.	University of Maryland, College Park (UMCP)	794	181.56	161.85
+54. Leibniz Association 750	199.50	159.77
+55.	Lawrence Berkeley National Laboratory (LBNL)	863	169.97	159.73
+56.	University of North Carolina at Chapel Hill (UNC)	394	164.79	159.47
+57.	New York University (NYU)	500	168.66	156.02
+58. Russian Academy of Sciences (RAS)
+927	220.46	154.82
+59.	The Pennsylvania State University (Penn State)	587	192.06	154.71
+60.	Nankai University (NKU)	334	150.88	150.88
+61.	Weizmann Institute of Science (WIS)	396	156.05	150.86
+62.	The University of Manchester (UoM)	665	178.25	149.09
+63.	Washington University in St. Louis (WUSTL)	371	151.91	148.13
+64.	The Ohio State University (OSU)	617	164.61	141.65
+65.	University of Colorado Boulder (CU-Boulder)	520	170.61	140.35
+66. Institute of Physical and Chemical Research (RIKEN) 532	143.21	137.53
+67.	Seoul National University (SNU)	407	150.56	131.37
+68.	University of California Davis (UC Davis)	436	140.02	131.05
+69.	Texas A&M University (TAMU)	424	136.24	128.46
+70.	Nagoya University	434	142.05	127.83
+71.	The University of British Columbia (UBC)	469	135.19	127.10
+72.	University of Copenhagen (UCPH)	679	151.84	125.32
+73.	University of Florida (UF)	489	136	123.94
+74.	Heidelberg University (Uni Heidelberg)	690	161.83	121.53
+75.	Purdue University	332	129.52	120.93
+76.	University of Pittsburgh (Pitt)	439	126.55	120.15
+77.	The University of Edinburgh	713	138.56	120.10
+78.	Tokyo Institute of Technology (Tokyo Tech)	365	128.66	120.09
+79.	The Scripps Research Institute (TSRI)	273	119.83	119.83
+80. Council of Scientific and Industrial Research (CSIR) 170	120.14	119.80
+81.	University of Bristol (UoB)	389	122.80	116.60
+82.	University of Würzburg	328	117.86	114.81
+83.	University of California Irvine (UCI)	415	126.26	114.72
+84. National Research Council (CNR) 522	118.94	114.07
+85.	University of Southern California (USC)	304	115.30	113.98
+86.	Georgia Institute of Technology (Georgia Tech)	307	118.55	113.55
+87.	Technical University Munich (TUM)	508	122.07	112.90
+88.	Xiamen University (XMU)	240	119.46	112.49
+89.	Vanderbilt University (VU)	332	116.90	111.47
+90.	Rutgers, The State University of New Jersey (RU)	381	115.44	109.10
+91.	University of Zurich (UZH)	510	118.55	108.92
+92.	Soochow University	209	108.47	108.47
+93.	Hebrew University of Jerusalem (HUJI)	288	121.42	108.12
+94.	Korea Advanced Institute of Science and Technology (KAIST)	224	108	106.70
+95.	The University of Texas Southwestern Medical Center (UT Southwestern Medical Center)	225	106.01	106.01
+96.	Atomic Energy and Alternative Energies Commission (CEA)	1064	129.80	105.93
+97.	University of Geneva (UNIGE)	518	134.01	105.56
+98.	Sun Yat-sen University (SYSU)	242	105.53	103.71
+99.	Utrecht University (UU)	497	103.46	103.13
+100.	Pierre and Marie Curie University (UPMC) - Paris 6	1472	140.08	103.02
+101.	Hokkaido University (Hokudai)	221	106.41	102.86
+102.	University of Münster (WWU)	229	103	101.27
+103.	Oak Ridge National Laboratory (ORNL)	303	101.65	101.06
+104.	Wuhan University (WHU)	185	100.27	100.27
+105.	The University of Queensland (UQ)	348	100.99	98.09
+106.	Boston University (BU)	488	106.86	96.94
+107. National Aeronautics and Space Administration (NASA) 1182	209.89	95.63
+108.	Technion-Israel Institute of Technology (IIT)	291	113.28	95.59
+109.	University of Basel (UB)	258	98.68	92.77
+110.	Monash University	364	109.20	92.57
+111.	Hunan University (HNU)	144	92.47	92.47
+112.	University of Utah (Utah)	281	98.31	92.46
+113.	University of Göttingen	378	105.21	92.44
+114.	King's College London (KCL)	397	93.70	92.43
+115.	Indiana University (IU)	381	99.98	92.36
+116.	National Taiwan University (NTU)	277	95	92.32
+117.	Australian National University (ANU)	505	133.70	92.26
+118.	Baylor College of Medicine (BCM)	241	92.15	92.15
+119.	University of Groningen (RUG)	441	115.90	91.15
+120.	State University of New York at Stony Brook (SUNY Stony Brook)	383	96.04	90.81
+121.	University of Southampton (Soton)	409	105.96	90.47
+122.	University of Alberta (U of A)	352	98.70	90.14
+123.	The Rockefeller University	256	89.83	89.83
+124.	University of Erlangen-Nuremberg (FAU)	290	96.14	89.64
+125.	Argonne National Laboratory (ANL)	528	93.14	89.54
+126.	Lanzhou University (LZU)	178	89.40	89.40
+127.	Catholic University of Leuven (KU Leuven)	354	115.99	89.31
+128.	The University of Arizona (Arizona)	681	156.18	89.29
+129.	University of Chinese Academy of Sciences (UCAS)	547	97.93	88.73
+130.	East China University of Science and Technology (ECUST)	159	88.55	88.55
+131.	University of Bonn (Uni Bonn)	515	133.70	88.31
+132.	University of California Riverside (UCR)	272	97.72	87.70
+133.	Jilin University (JLU)	187	89.21	87.47
+134.	Lund University (LU)	338	98.41	85.83
+135.	National Institute for Health and Medical Research (INSERM)	739	85.61	85.61
+136.	Free University of Berlin (FU Berlin)	406	85.72	85.60
+137.	Indian Institute of Science (IISc)	137	90.40	85.45
+138.	Uppsala University (UU)	426	95.98	85.36
+139.	Kyushu University	281	86.96	84.75
+140.	Pohang University of Science and Technology (POSTECH)	178	84.67	84.65
+141.	Arizona State University (ASU)	312	96.41	83.92
+142.	East China Normal University (ECNU)	164	83.90	83.90
+143.	Rice University	272	88.62	83.82
+144.	Los Alamos National Laboratory (LANL)	385	95.26	83.63
+145.	Sichuan University (SCU)	186	83.40	83.22
+146.	U.S. Department of Defense (DoD)	352	100.73	82.89
+147.	Humboldt University of Berlin (HU Berlin)	493	83.29	82.56
+148.	Shanghai Jiao Tong University (SJTU)	371	87.34	82.21
+149.	Yonsei University	213	88.67	82.11
+150.	Leiden University	597	146.98	82.11
+151.	The University of Melbourne (UniMelb)	512	94.19	82.03
+152.	Tel Aviv University (TAU)	362	102.11	81.96
+153. National Institute for Material Science (NIMS)
+221	81.43	81.43
+154.	Stockholm University	529	103.49	81.22
+155.	University of Hamburg (UHH)	373	93.71	80.38
+156.	Emory University	208	79.72	79.40
+157.	Durham University	434	131.11	79.33
+158.	University of New South Wales (UNSW)	256	87.70	79.09
+159. Indian Institute of Science Education and Research (IISER) 138	81.44	78.67
+160.	National Institute of Standards and Technology (NIST)	312	84.29	78.55
+161.	RWTH Aachen University (RWTH Aachen)	255	78.75	78.50
+162. Agency for Science, Technology and Research (A*STAR) 253	77.76	77.76
+163.	University of Freiburg (Uni Freiburg)	296	77.49	77.49
+164.	North Carolina State University (NCSU)	223	79.02	76.29
+165.	Hong Kong University of Science and Technology (HKUST)	200	76.12	76.12
+166.	Brown University	226	77.88	75.83
+167.	The University of Sydney (USYD)	464	94.28	75.63
+168.	Aarhus University (AU)	283	87.97	74.72
+169.	Memorial Sloan Kettering Cancer Center (MSKCC)	201	74.65	74.65
+170. National Institute of Advanced Industrial Science and Technology (AIST) 195	73.58	73.58
+171.	University of Regensburg (UR)	156	73.05	72.58
+172.	University of Montreal (UdeM)	394	83.72	72.56
+173.	King Abdullah University of Science and Technology (KAUST)	176	72.19	72.19
+174.	University of Tübingen (Uni Tübingen)	292	87.44	71.46
+175.	Dresden University of Technology (TU Dresden)	356	71.66	71.25
+176. Academia Sinica 536	96.47	71.20
+177.	Brookhaven National Laboratory (BNL)	327	71.18	70.78
+178.	The University of Sheffield	312	85.59	70.37
+179.	University of Rochester (UR)	247	74.97	69.88
+180.	University of Paris Sud (Paris 11)	711	79.29	69.57
+181.	University of Glasgow	392	79.20	69.45
+182.	Case Western Reserve University (CWRU)	204	74.86	69.39
+183.	The University of Georgia (UGA)	166	74.13	69.22
+184.	Shandong University (SDU)	270	78.28	69.16
+185.	Iowa State University (ISU)	254	73	69.05
+186.	University of Waterloo	175	73.06	68.78
+187.	University of Leeds	236	75.70	68.52
+188.	Johannes Gutenberg University Mainz (JGU)	318	68.47	68.17
+189.	Goethe University Frankfurt am Main (GU)	223	68.21	67.42
+190.	University of Notre Dame (ND)	275	72.70	67.24
+191.	University of California Santa Cruz (UCSC)	553	109.08	66.43
+192.	National Tsing Hua University (NTHU)	175	71.74	65.79
+193.	University of Massachusetts Amherst (UMass Amherst)	295	77.52	65.66
+194.	The University of Nottingham (UoN)	218	79.32	65.35
+195.	University of Virginia (UVA)	333	79.45	64.64
+196.	Delft University of Technology (TU Delft)	161	65.75	64.47
+197.	The University of Warwick (Warwick)	375	87.06	64.40
+198. Academy of Sciences of the Czech Republic (ASCR) 392	83.48	64.03
+199.	Tianjin University (TJU)	206	64.02	64.02
+200.	Huazhong University of Science and Technology (HUST)	176	65.11	63.78
+201.	Autonomous University of Madrid (UAM)	412	75.98	63.72
+202.	Florida State University (FSU)	295	66.25	63.16
+203.	University of Illinois at Chicago (UIC)	211	62.97	62.97
+204.	European Organization for Nuclear Research (CERN)	369	63.04	62.57
+205.	University of Bern	349	72.39	62.31
+206.	Pacific Northwest National Laboratory (PNNL)	150	61.45	61.45
+207.	National Institute for Astrophysics (INAF)	1060	278.25	60.60
+208.	Radboud University Nijmegen (RU)	523	73.98	60.43
+209.	Paris Diderot University (Paris 7)	1050	90.40	60.20
+210.	University of St Andrews	359	84.18	59.95
+211.	University of Barcelona (UB)	415	70.46	59.28
+212.	University of Massachusetts Medical School (UMass Medical School)	213	58.94	58.94
+213.	The University of Iowa (UI)	286	64.01	58.81
+214.	The University of Hong Kong (HKU)	254	67.06	58.42
+215.	University of Amsterdam (UvA)	583	82.50	58.34
+216.	The University of Texas MD Anderson Cancer Center	175	57.83	57.83
+217.	University of Strasbourg	409	65.39	57.43
+218.	Joseph Fourier University (UJF)	654	70.08	57.14
+219.	Technical University of Denmark (DTU)	233	59.47	56.42
+220.	Ruhr University Bochum (RUB)	240	72.18	56.29
+221.	Sungkyunkwan University (SKKU)	225	56.56	56.08
+222.	Albert Einstein College of Medicine (Einstein)	144	54.97	54.97
+223.	University of Nebraska-Lincoln (UNL)	159	55.54	54.74
+224.	Keio University	118	56.68	54.30
+225.	Technische Universität Berlin (TU Berlin)	126	57.84	54.27
+226.	Beijing Normal University (BNU)	177	63.27	54.24
+227. Medical Research Council (MRC) 262	54.17	54.17
+228.	IBM Corporation	129	55.92	53.89
+229.	University of Toulouse	503	59.88	53.52
+230.	University of Ottawa (uOttawa)	130	53.50	53.50
+231.	Carnegie Mellon University (CMU)	229	66.83	52.87
+232.	Icahn School of Medicine at Mount Sinai (ISMMS)	194	52.81	52.81
+233.	University of Cincinnati (UC)	218	53.66	52.70
+234.	F. Hoffman-La Roche AG	136	52.53	52.53
+235.	Karolinska Institute (KI)	246	52.44	52.44
+236.	University at Buffalo (UB), The State University of New York	152	52.20	52.20
+237. Polish Academy of Sciences (PAS) 429	80.80	52.18
+238.	Sapienza University of Rome	504	59.93	52.18
+239.	South China University of Technology (SCUT)	112	52.12	52.12
+240.	University of Padova (UNIPD)	497	68.77	51.97
+241.	University of Connecticut (UConn)	118	51.72	51.72
+242.	University of Cologne (UoC)	227	64.92	51.45
+243.	University of Stuttgart	119	51.82	51.42
+244.	U.S. Geological Survey (USGS)	141	51.10	51.10
+245.	Colorado State University (CSU)	128	50.98	50.94
+246.	University of Liverpool	311	51.14	50.91
+247.	Smithsonian Institution	903	124.33	50.86
+248.	Xi'an Jiaotong University (XJTU)	121	51.18	50.78
+249.	The Chinese University of Hong Kong (CUHK)	204	54.45	50.65
+250.	Korea University (KU)	189	50.55	50.55
+251.	Institute for Basic Science (IBS)	189	50.31	50.31
+252.	University of Houston (UH)	136	50.16	50.16
+253.	University of Vienna	244	72.29	50.11
+254.	University of Calgary (U of C)	235	55.55	50.09
+255.	University of Delaware (UD)	165	56.91	50
+256.	Sandia National Laboratories	146	50.23	49.68
+257.	Michigan State University (MSU)	348	62.71	49.33
+258.	Dalian University of Technology (DUT)	104	49.35	49.19
+259.	University of São Paulo (USP)	315	75.98	49.12
+260.	University of Tsukuba	240	50.89	48.71
+261.	Philipps University of Marburg (Uni Marburg)	107	48.37	48.37
+262.	Aalto University	243	52.49	48.34
+263.	Chalmers University of Technology (Chalmers)	169	60.95	48.27
+264.	Ghent University (UGent)	257	56.05	47.98
+265.	Ben-Gurion University of the Negev (BGU)	100	51.47	47.42
+266.	National Autonomous University of Mexico (UNAM)	334	90.20	46.70
+267.	Perimeter Institute for Theoretical Physics (PI)	150	48.78	46.54
+268. Tata Institute of Fundamental Research (TIFR) 228	64.97	46.53
+269.	Salk Institute for Biological Studies (Salk)	135	46.46	46.46
+270.	Vienna University of Technology (TU Wien)	139	46.73	46.45
+271.	École Normale Supérieure (ENS)	568	54.06	46.06
+272.	University of Valencia (UV)	291	51.95	45.74
+273.	University of Helsinki	304	52.73	45.72
+274.	University of Lyon	423	49.44	45.68
+275.	KTH Royal Institute of Technology	444	57.63	45.39
+276.	Southwest University (SWU)	67	45.40	45.36
+277.	University of York	124	45.22	45.06
+278.	Queen Mary University of London (QMUL)	276	52.14	44.82
+279. The Commonwealth Scientific and Industrial Research Organisation (CSIRO) 280	66.47	44.03
+280. National Institutes of Natural Sciences (NINS) 426	87.34	43.84
+281. National Oceanic and Atmospheric Administration (NOAA) 179	43.79	43.70
+282.	McMaster University	132	54.74	43.37
+283.	University of Oregon (UO)	156	43.45	43
+284.	University of Miami (UM)	116	43.89	42.80
+285.	Louisiana State University (LSU)	141	45.51	42.15
+286. European Molecular Biology Laboratory (EMBL) 188	41.76	41.76
+287.	University of Hawai'i at Manoa (UH Mānoa)	459	85.07	41.75
+288.	The University of Western Australia (UWA)	324	55.19	41.69
+289.	University of Florence (UNIFI)	313	47.76	41.59
+290.	Ulsan National Institute of Science and Technology (UNIST)	113	42.86	41.49
+291.	Virginia Polytechnic Institute and State University (Virginia Tech)	146	44.48	41.43
+292. Italian Institute of Technology (IIT) 129	41.42	41.39
+293.	University of Bordeaux	291	50.28	41.36
+294.	Aix-Marseille University (AMU)	645	58.12	41.33
+295.	Indian Association for the Cultivation of Science (IACS)	74	41.32	41.27
+296.	Wayne State University (WSU)	157	42.55	40.84
+297.	University of Maryland, Baltimore (UMB)	113	40.98	40.80
+298.	Oregon State University (OSU)	120	41.96	40.75
+299. Istituto Di Ricovero e Cura a Carattere Scientifico (IRCCS) 207	40.20	40.20
+300.	University of Bath	98	40.24	40.15
+301.	University of Oslo (UiO)	315	61.85	40.08
+302.	The University of New Mexico (UNM)	226	42.16	39.88
+303.	University of the Basque Country (UPV/EHU)	210	41.93	39.77
+304.	Harbin Institute of Technology (HIT)	86	39.88	39.73
+305.	University of Montpellier	315	41.99	39.58
+306.	University of Birmingham (UB)	298	46.71	39.32
+307.	Mayo Clinic	121	39.21	39.21
+308.	National Scientific and Technical Research Council (CONICET)	359	54.36	38.93
+309.	Leipzig University	123	38.72	38.72
+310.	The University of Dublin	128	41.10	38.37
+311.	University of Kiel (CAU)	177	49.14	38.35
+312.	University of Konstanz	80	38.34	38.14
+313.	Eindhoven University of Technology (TU/e)	88	37.90	37.90
+314.	Friedrich Schiller University Jena (FSU)	161	43.34	37.80
+315.	University of Colorado Denver | Anschutz Medical Campus (CU Anschutz)	121	37.70	37.66
+316. Hungarian Academy of Sciences (HAS) 286	50.50	37.59
+317.	Southeast University (SEU)	82	37.51	37.51
+318.	University of Warsaw (UW)	211	53.11	37.50
+319.	Novartis International AG	92	37.64	37.44
+320.	University of Exeter	203	53.64	37.31
+321.	Queen's University Belfast (QUB)	176	54.25	37.30
+322.	University of Lausanne (UNIL)	129	37.20	37.20
+323.	University of South Florida (USF)	89	37.33	37.13
+324.	VU University Amsterdam	319	38.68	37.04
+325.	Lomonosov Moscow State University (MSU)	365	53.46	36.77
+326.	Dartmouth College	118	42.15	36.56
+327.	The University of Kansas (KU)	173	38.22	36.20
+328.	University of Rostock	130	36.52	36.12
+329.	National Renewable Energy Laboratory (NREL)	75	36.11	36.11
+330.	Université Libre de Bruxelles (ULB)	192	39.56	35.86
+331.	Hiroshima University (HU)	162	42.05	35.39
+332.	Tufts University	234	36.17	35.35
+333.	Hanyang University (HYU)	96	35.19	35.17
+334.	Oregon Health & Science University (OHSU)	91	35.09	35.09
+335.	St. Jude Children's Research Hospital (St. Jude)	85	34.97	34.97
+336.	University of Kentucky (UK)	140	39.04	34.75
+337.	University of Bologna (UNIBO)	519	66.18	34.72
+338.	Woods Hole Oceanographic Institution (WHOI)	102	34.62	34.62
+339.	Queen's University	178	37.40	34.56
+340.	People's Liberation Army (PLA)	165	34.92	34.33
+341.	University of Milano-Bicocca (UNIMIB)	301	39.27	34.18
+342.	Northeast Normal University (NENU)	47	34.20	34
+343.	University of Turin (UNITO)	322	39.02	33.99
+344.	Cardiff University	196	45.28	33.91
+345.	Carnegie Institution for Science (CIS)	333	58.57	33.76
+346.	Brandeis University	131	35.25	33.64
+347.	Northeastern University (NEU)	150	33.62	33.57
+348.	Complutense University of Madrid (UCM)	195	43.35	33.30
+349.	Lawrence Livermore National Laboratory (LLNL)	257	38.63	33.28
+350.	Tongji University	110	33.27	33.27
+351.	University of Sussex (US)	251	43.99	33.26
+352.	Okayama University	152	33.60	33.21
+353.	Chongqing University (CQU)	69	34.43	33.20
+354.	Newcastle University	126	35.60	33.04
+355.	University of Hannover (LUH)	88	33.92	32.97
+356.	University of South Carolina - Columbia (SC)	98	34.18	32.91
+357.	University of Strathclyde	109	34.85	32.55
+358.	Fuzhou University (FZU)	58	32.53	32.53
+359.	Science and Technology Facilities Council (STFC)	551	44.47	32.40
+360.	Ulm University	113	33.19	32.39
+361.	Cold Spring Harbor Laboratory (CSHL)	75	32.30	32.30
+362.	Western University (UWO)	130	44.42	32.14
+363.	Beijing University of Chemical Technology (BUCT)	53	32.03	32.03
+364.	Beihang University (BUAA)	99	31.99	31.81
+365.	University of Otago	99	31.56	31.56
+366.	University of Lisbon (ULISBOA)	274	39.09	31.43
+367.	Heinrich Heine University Düsseldorf (HHU)	113	31.40	31.40
+368.	City University of Hong Kong (CityU)	104	31.26	31.26
+369.	Institute of Chemical Research of Catalonia (ICIQ)	70	31.20	31.20
+370.	Jagiellonian University (UJ)	186	36.51	31
+371.	Umeå University (UMU)	83	30.84	30.84
+372.	The University of Tennessee at Knoxville (UTK)	197	32.26	30.66
+373.	Charles University (CU)	279	40.39	30.62
+374.	University of Leicester	185	46.29	30.57
+375.	The University of Adelaide (Adelaide Uni)	182	32.56	30.49
+376.	University of Milan (UNIMI)	370	35.20	30.45
+377.	University of Duisburg-Essen (UDE)	109	29.75	29.75
+378.	Merck KGaA	76	29.56	29.56
+379.	University of Bayreuth (UBT)	67	29.97	29.30
+380.	Waseda University	162	33.38	29.27
+381.	University of Potsdam	146	35.94	29.25
+382.	National Chiao Tung University (NCTU)	76	29.26	29.23
+383.	Korea Institute of Science and Technology (KIST)	106	29.16	29.16
+384.	Autonomous University of Barcelona (UAB)	368	36.26	29.10
+385.	U.S. Department of Veterans Affairs	300	29	28.98
+386.	Pasteur Institute, France	165	28.73	28.73
+387.	Virginia Commonwealth University (VCU)	66	28.69	28.69
+388.	University of Bremen (Uni Bremen)	96	28.47	28.47
+389.	Simon Fraser University (SFU)	175	28.54	28.33
+390.	Shanghai University (SHU)	75	28.71	28.31
+391.	Washington State University (WSU)	74	30.13	28.29
+392.	Bielefeld University	75	29.60	28.16
+393.	University of Innsbruck (LFU)	205	33.08	28.11
+394.	Temple University	87	27.95	27.95
+395.	Ewha Womans University (Ewha)	100	28.32	27.89
+396.	The University of Texas Health Science Center at Houston (UTHealth)	117	27.79	27.79
+397.	Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)	37	27.71	27.71
+398.	Linköping University (LiU)	80	27.84	27.67
+399.	University of Naples Federico II (UNINA)	351	32.10	27.49
+400.	University of Gothenburg (GU)	107	28.07	27.47
+401.	Darmstadt University of Technology (TU Darmstadt)	109	27.91	27.44
+402.	Wellcome Trust Sanger Institute	161	27.09	27.09
+403.	University of Sherbrooke (USherbrooke)	89	27.09	27.09
+404.	Laval University (UL)	144	29.29	26.65
+405.	Norwegian University of Science and Technology (NTNU)	72	27.03	26.50
+406.	Cleveland Clinic	77	26.04	26.04
+407.	University of Missouri-Columbia (Mizzou)	71	30.69	25.85
+408.	Institute of Research for Development (IRD)	610	35.38	25.64
+409.	Kyung Hee University (KHU)	119	37.66	25.55
+410.	Saint Petersburg State University (SPbGU)	122	31.14	25.36
+411.	Shandong Normal University (SDNU)	33	25.33	25.33
+412.	Dalhousie University	87	26.39	25.32
+413.	University of Santiago de Compostela (USC)	129	25.35	25.26
+414.	International School for Advanced Studies (SISSA)	158	30.73	25.05
+415.	Kobe University	150	28.61	25.05
+416.	Central China Normal University (CCNU)	113	26.64	25.04
+417.	University of Crete (UOC)	95	29.27	24.95
+418.	University of Jyväskylä	159	24.92	24.75
+419.	University of Science and Technology Beijing (USTB)	48	24.71	24.71
+420. National Institute of Applied Sciences (INSA) 246	24.85	24.65
+421.	University of Rome Tor Vergata	349	31.35	24.61
+422.	Bar-Ilan University (BIU)	67	24.56	24.56
+423.	University of Alabama at Birmingham (UAB)	88	24.60	24.54
+424.	The University of Texas at Dallas (UT Dallas)	148	24.73	24.42
+425.	Catholic University of Louvain (UCL)	122	24.84	24.41
+426.	Institute for Advanced Study (IAS)	105	32.77	24.33
+427.	Beijing Institute of Technology (BIT)	55	24.28	24.25
+428.	Curtin University	233	35.25	24.16
+429.	Gwangju Institute of Science and Technology (GIST)	59	24.16	24.16
+430.	Saarland University (Saar-Uni)	65	24	23.97
+431.	University of Oviedo (UniOvi)	110	23.96	23.91
+432.	University of Victoria (UVic)	251	31.68	23.68
+433.	University of Twente (UTwente)	56	23.66	23.62
+434.	Georgia State University (GSU)	97	28.97	23.59
+435.	Central South University (CSU)	75	23.57	23.57
+436.	São Paulo State University (UNESP)	112	27.78	23.52
+437.	University of Southern Denmark (SDU)	76	23.20	23.20
+438.	Braunschweig University of Technology (TU Braunschweig)	109	26.66	23.13
+439.	Zhengzhou University (ZZU)	59	22.93	22.93
+440.	The University of Oklahoma (OU)	173	30.03	22.85
+441.	University of Antwerp (UA)	127	23.28	22.78
+442.	Chinese Academy of Medical Sciences & Peking Union Medical College (CAMS & PUMC)	83	22.62	22.62
+443.	The Hong Kong Polytechnic University (PolyU)	50	22.57	22.57
+444.	University of Trieste (UNITS)	357	30.69	22.49
+445.	Drexel University	80	25.59	22.39
+446.	Nanjing Tech University (NanjingTech)	57	22.36	22.36
+447.	University of Graz (Uni Graz)	70	25.30	22.36
+448.	Netherlands Foundation for Fundamental Research on Matter (FOM)	253	22.37	22.35
+449.	University of Central Florida (UCF)	44	22.70	22.26
+450.	French National Institute for Agricultural Research (INRA)	226	22.19	22.19
+451.	Boston College (BC)	53	22.78	22.06
+452.	Fred Hutchinson Cancer Research Center (FHCRC)	92	21.92	21.92
+453.	Japan Agency for Marine-Earth Science and Technology (JAMSTEC)	84	23.03	21.70
+454.	École Polytechnique	216	22.60	21.66
+455.	High Energy Accelerator Research Organization (KEK)	192	24.44	21.55
+456.	National Center for Atmospheric Research (NCAR)	85	29.52	21.50
+457.	Dortmund University of Technology (TU Dortmund)	192	21.81	21.48
+458.	University of Saskatchewan (U of S)	58	21.42	21.37
+459.	Lancaster University	154	21.43	21.36
+460.	Catalan Institution for Research and Advanced Studies (ICREA)	362	24.24	21.27
+461.	AstraZeneca plc	59	21.22	21.22
+462.	University of Lille Nord de France	152	24.35	21.20
+463.	Wageningen UR (University & Research Centre)	108	21.18	21.18
+464. Austrian Academy of Sciences (ÖAW) 174	25.84	21.15
+465.	The University of Auckland	141	24.03	21.08
+466.	Japan Atomic Energy Agency (JAEA)	72	21.08	21.07
+467.	Samsung Group	76	21.02	21.02
+468.	University of Dundee	88	23.65	20.91
+469.	Nagoya Institute of Technology (NITech)	31	20.90	20.90
+470.	GlaxoSmithKline plc. (GSK)	71	20.88	20.88
+471.	University College Dublin (UCD)	178	21.61	20.88
+472.	University of Hyderabad (UoH)	29	20.82	20.82
+473.	University of Wrocław (UWr)	70	26.92	20.73
+474.	University of Reading	75	21.84	20.62
+475.	National Research Council (NRC)	308	36.48	20.62
+476.	Macquarie University	157	29.19	20.60
+477.	Shaanxi Normal University (SNNU)	34	20.52	20.52
+478.	Interuniversity Microelectronics Centre (IMEC)	45	20.46	20.46
+479.	Changzhou University (CZU)	33	20.36	20.36
+480.	The University of Wollongong (UOW)	61	20.33	20.33
+481.	French School of Public Health (EHESP)	159	20.73	20.31
+482.	Rensselaer Polytechnic Institute (RPI)	68	23.50	20.14
+483.	Heriot-Watt University	58	21.46	20.13
+484.	West Virginia University (WVU)	62	24.02	20.10
+485.	Osaka Prefecture University (OPU)	47	21.03	19.97
+486.	University of Siegen	118	20.04	19.92
+487.	University of Seville (US)	75	20.61	19.88
+488.	Institute of Photonic Sciences (ICFO)	71	19.85	19.85
+489.	Nanjing Normal University (NNU)	55	20.98	19.73
+490.	University of Zaragoza (Unizar)	89	19.72	19.72
+491.	University of Buenos Aires (UBA)	193	25.04	19.68
+492.	York University	156	21.34	19.63
+493.	Thomas Jefferson University (TJU)	45	19.45	19.45
+494.	Giessen University (JLU)	154	19.74	19.44
+495.	University of Wyoming	80	25.84	19.42
+496.	Syracuse University	91	20.56	19.42
+497.	University of Turku (UTU)	167	30.97	19.26
+498.	Paris Descartes University (Paris 5)	185	19.20	19.20
+499.	Ocean University of China (OUC)	55	19.20	19.20
+500.	China University of Geosciences (CUG)	54	19.17	19.17
+501.	University of Arkansas (UARK)	54	19.55	19.06
+502.	University of Liège (ULg)	139	34.72	18.94
+503.	University of East Anglia (UEA)	78	19.05	18.93
+504.	University of Manitoba	160	20.95	18.84
+505.	University of Aberdeen	71	18.83	18.82
+506.	Swinburne University of Technology	236	48.50	18.82
+507.	European Synchrotron Radiation Facility (ESRF)	116	18.87	18.77
+508.	National Institute of Geophysics and Volcanology (INGV)	49	18.86	18.76
+509.	University of Bergen (UIB)	181	18.69	18.69
+510.	Pfizer Inc.	50	18.64	18.64
+511.	NTT Group	34	18.63	18.63
+512.	University of Pisa (UNIPI)	360	23.47	18.51
+513.	Northwest University (NWU)	33	18.46	18.46
+514.	Curie Institute	118	18.34	18.33
+515.	Tokyo University of Science (TUS)	56	20.41	18.21
+516.	Abdus Salam International Centre for Theoretical Physics (ICTP)	143	18.34	18.15
+517.	University of Nevada, Reno (UNR)	46	18.15	18.15
+518.	Fermilab National Accelerator Laboratory (Fermilab)	139	21.65	18.11
+519.	Kansas State University (K-State)	87	19.15	18.08
+520. Fraunhofer Society 95	17.97	17.97
+521.	University of Kaiserslautern (TU Kaiserslautern)	47	17.87	17.87
+522.	Sogang University	34	17.84	17.84
+523.	Tokyo University of Agriculture and Technology (TUAT)	35	17.74	17.74
+524.	Medical University of Vienna (MUW)	82	17.67	17.67
+525.	Free University of Brussels (VUB)	141	18.71	17.66
+526.	University of Electronic Science and Technology of China (UESTC)	63	17.59	17.59
+527.	University of La Laguna (ULL)	421	70.38	17.56
+528.	Nanjing University of Science and Technology (NUST)	42	17.50	17.50
+529.	University of Genoa	301	17.83	17.47
+530.	University of Guelph	150	17.47	17.44
+531.	The University of Texas at Arlington (UTA)	117	20.14	17.43
+532.	Chiba University	69	18.13	17.42
+533.	University of Chile	324	36.67	17.37
+534.	National Institute for Nuclear Physics (INFN)	315	19.39	17.34
+535.	University of Louisville (UofL)	48	17.70	17.32
+536.	The George Washington University (GW)	74	19.94	17.32
+537.	Slovenian Academy of Sciences and Arts (SASA)	143	17.31	17.30
+538.	Martin Luther University of Halle-Wittenberg (MLU)	71	17.69	17.29
+539.	Erasmus University Rotterdam (EUR)	122	17.22	17.22
+540.	University of Porto (UP)	169	27.89	17.20
+541.	Institute of Health Carlos III (ISCIII)	155	17.20	17.20
+542.	University of Fribourg (UNIFR)	58	17.19	17.19
+543.	Korea Institute for Advanced Study (KIAS)	78	21.76	17.19
+544.	Osaka City University (OCU)	57	17.86	17.16
+545.	Nara Institute of Science and Technology (NAIST)	42	17.07	17.07
+546.	Tulane University	53	17.03	17.03
+547. The National Academy of Sciences of Ukraine (NASU) 161	24.26	16.93
+548.	China Meteorological Administration (CMA)	52	17.21	16.91
+549.	University of Tasmania (UTAS)	95	19.60	16.77
+550.	The Netherlands Cancer Institute (NKI)	68	16.75	16.75
+551.	State University of New York at Albany (SUNY Albany)	118	17.08	16.58
+552.	Oklahoma State University (OSU)	106	16.54	16.45
+553.	National Cheng Kung University (NCKU)	51	16.43	16.43
+554.	Clemson University	60	18.30	16.42
+555. Cancer Research UK (CRUK) 146	16.28	16.28
+556.	Pompeu Fabra University (UPF)	72	16.19	16.19
+557. Brazil Ministry of Science, Technology and Innovation (MCTI) 259	35.92	16.17
+558.	University of Girona (UdG)	38	16.15	16.15
+559.	The Children's Hospital of Philadelphia (CHOP)	85	16.14	16.14
+560.	University of Nice Sophia Antipolis (UNS)	227	28.22	16.13
+561.	Kanazawa University (KU)	46	16.48	16.06
+562.	Royal Netherlands Academy of Arts and Sciences (KNAW)	90	16.01	16.01
+563.	The University of Toledo (UT)	70	20.88	15.99
+564.	University of Pavia (UNIPV)	255	16.49	15.99
+565.	Sanford Burnham Prebys Medical Discovery Institute (SBP)	79	15.97	15.97
+566.	University of Granada (UGR)	176	20.27	15.95
+567.	Lehigh University	40	17.49	15.90
+568.	Swiss Federal Laboratories for Materials Science and Technology (EMPA)	49	15.82	15.82
+569.	Victoria University of Wellington (Victoria)	94	16.93	15.81
+570.	University of Idaho	43	18.84	15.80
+571.	Yamagata University	45	16	15.80
+572.	South University of Science and Technology of China (SUSTC)	36	15.80	15.80
+573.	The University of Alabama (UA)	119	20.10	15.78
+574.	European Southern Observatory (ESO)	690	76.14	15.70
+575.	Swansea University	50	15.67	15.67
+576.	Kumamoto University	45	16.50	15.67
+577.	Henan Normal University (HTU)	39	15.59	15.59
+578.	Amgen Inc.	39	15.48	15.48
+579.	Scuola Normale Superiore (SNS)	383	27.40	15.47
+580.	Pusan National University (PNU)	71	16.63	15.43
+581.	Harish-Chandra Research Institute (HRI)	28	15.31	15.31
+582.	OU Health Sciences Center (OUHSC)	44	15.26	15.26
+583.	China Agricultural University (CAU)	35	15.26	15.26
+584.	University of Vermont (UVM)	47	17.12	15.26
+585.	National Institute of Scientific Research (INRS)	59	15.25	15.25
+586.	University of the Balearic Islands (UIB)	55	23.30	15.21
+587.	Masaryk University (MU)	68	21.51	15.21
+588.	China Academy of Engineering Physics (CAEP)	65	15.91	15.18
+589.	Saha Institute of Nuclear Physics (SINP)	86	16.95	15.16
+590.	Wake Forest University (WFU)	47	15.14	15.14
+591.	Stowers Institute for Medical Research	31	15.12	15.12
+592.	National Taiwan Normal University (NTNU)	46	15.59	15.05
+593.	Shanxi University (SXU)	36	15	15
+594.	Polytechnic University of Milan	144	15	15
+595.	Medical College of Wisconsin (MCW)	38	14.98	14.98
+596.	Georgetown University	41	14.91	14.91
+597.	The University of Texas at San Antonio (UTSA)	70	17.69	14.88
+598.	Kangwon National University (KNU)	66	14.84	14.84
+599.	Ajou University (AJOU)	32	14.74	14.74
+600.	Federal University of Rio de Janeiro (UFRJ)	189	18.11	14.69
+601.	The University of Oldenburg	47	14.71	14.48
+602.	King Abdulaziz University (KAU)	216	16.20	14.43
+603.	The University of Texas Health Science Center at San Antonio (UT Health Science Center at San Antonio)	40	14.43	14.43
+604.	State University of New York Upstate Medical University (SUNY Upstate Medical University)	29	14.42	14.42
+605.	Bhabha Atomic Research Centre (BARC)	67	15.37	14.35
+606.	Space Telescope Science Institute (STScI)	431	65.31	14.23
+607.	Kyungpook National University (KNU)	100	14.68	14.22
+608.	Tokyo Metropolitan University (TMU)	119	14.96	14.22
+609.	University of Mississippi (Ole Miss)	95	14.29	14.20
+610.	Kent State University (KSU)	40	14.39	13.99
+611.	University of Aveiro (UA)	46	15.07	13.97
+612.	Synchrotron SOLEIL	58	14.33	13.93
+613.	The University of Akron (UAkron)	33	13.84	13.84
+614.	RMIT University	51	13.77	13.77
+615.	China Pharmaceutical University (CPU)	32	13.75	13.75
+616.	University of Surrey	87	20.96	13.74
+617.	University of Toyama	32	15.40	13.67
+618.	The Graduate University for Advanced Studies (Sokendai)	139	19.80	13.58
+619.	Qingdao University of Science and Technology (QUST)	20	13.56	13.56
+620.	University of Nebraska Medical Center (UNMC)	30	13.54	13.54
+621.	Tokyo Medical and Dental University (TMDU)	37	13.50	13.50
+622.	University of Augsburg	37	13.50	13.50
+623.	Spanish National Cancer Research Centre (CNIO)	41	13.41	13.41
+624.	University of Texas Medical Branch (UTMB)	32	13.41	13.41
+625.	University of Puerto Rico (UPR)	82	14.10	13.36
+626.	University of Murcia (UMU)	31	13.83	13.33
+627.	Polytechnic University of Valencia (UPV)	43	13.94	13.29
+628.	University of KwaZulu-Natal (UKZN)	100	15.75	13.28
+629.	University of Bari Aldo Moro (UniBA)	236	14.08	13.24
+630.	Deakin University	48	13.22	13.22
+631.	Chung-Ang University (CAU)	30	13.19	13.19
+632.	Hangzhou Normal University (HZNU)	43	13.16	13.16
+633.	Niigata University	53	13.14	13.14
+634.	Renmin University of China (RUC)	34	13.12	13.12
+635.	National Science Foundation (NSF)	371	41.42	13.10
+636.	Bilkent University	33	13.09	13.09
+637.	National Central University (NCU)	161	20.38	13.07
+638.	State University of Campinas (UNICAMP)	86	13.42	13.04
+639.	Environment Canada (EC)	40	13.03	13.03
+640.	Institute for Research in Biomedicine (IRB Barcelona)	64	12.98	12.98
+641.	Eötvös Loránd University (ELTE)	94	16.30	12.98
+642.	University of Lorraine (UL)	79	13.15	12.95
+643.	Northwest A&F University (NWAFU)	24	12.90	12.90
+644.	U.S. Department of Agriculture (USDA)	88	12.90	12.90
+645.	Wuhan University of Technology (WUT)	28	12.89	12.89
+646.	The City College of New York (CUNY CCNY)	44	13.06	12.86
+647.	Nanjing University of Information Science and Technology (NUIST)	46	13.65	12.85
+648.	University of Trento (UNITN)	179	14.51	12.84
+649.	Nanchang University (NCU)	31	14.04	12.84
+650.	The University of South Australia (UniSA)	46	12.74	12.74
+651.	James Cook University (JCU)	42	12.71	12.71
+652.	Ohio University (Ohio)	53	15.08	12.68
+653.	Novosibirsk State University (NSU)	100	12.70	12.68
+654.	Marquette University	20	12.74	12.64
+655.	University of Wisconsin-Milwaukee (UWM)	73	15.57	12.60
+656.	State Oceanic Administration (SOA)	59	14.50	12.58
+657.	Hannover Medical School (MHH)	89	12.57	12.57
+658.	University of the Witwatersrand, Johannesburg (Wits University)	152	14.10	12.54
+659.	Physikalisch-Technische Bundesanstalt (PTB)	27	12.52	12.52
+660.	Swedish University of Agricultural Sciences (SLU)	49	12.51	12.51
+661.	Polytechnic University of Turin	240	13.32	12.50
+662.	Montana State University-Bozeman (MSU)	66	15.92	12.50
+663.	La Jolla Institute for Allergy and Immunology (LIAI)	41	12.47	12.47
+664.	Flanders Institute for Biotechnology (VIB)	108	12.40	12.40
+665.	BGI	53	12.39	12.39
+666.	National Institute of Biological Sciences, Beijing (NIBS)	29	12.30	12.30
+667.	Jiangsu University (JSU)	26	12.29	12.29
+668.	Polytechnic University of Catalonia (UPC)	166	18.92	12.27
+669.	Japan Synchrotron Radiation Research Institute (JASRI)	99	12.30	12.27
+670.	New Mexico State University (NMSU)	100	24.28	12.13
+671.	University of Coimbra (UC)	116	12.11	12.11
+672.	Bristol-Myers Squibb (BMS)	21	12.01	12.01
+673.	Joint Institute for Nuclear Research (JINR)	196	12.13	11.97
+674.	University of Salerno (UNISA)	141	12.72	11.92
+675.	Nanjing University of Posts and Telecommunications (NUPT)	37	11.92	11.92
+676.	National Research Center "Kurchatov Institute" (NRC "Kurchatov Institute")	248	11.97	11.91
+677.	Jinan University (JNU)	34	12.96	11.89
+678.	University of Cape Town (UCT)	181	20.49	11.87
+679.	Capital Normal University (CNU)	28	11.86	11.86
+680.	University College Cork (UCC)	51	14.47	11.79
+681.	Yokohama City University (YCU)	33	11.75	11.75
+682.	Collège de France	122	12.16	11.70
+683.	Ludwig Institute for Cancer Research Ltd. (LICR)	60	11.64	11.64
+684.	University of Perugia	208	13.56	11.61
+685.	Stellenbosch University (SU)	34	11.87	11.61
+686.	China Earthquake Administration (CEA)	41	11.66	11.59
+687.	Palacky University (PU)	109	11.55	11.54
+688.	University of Belgrade	162	14.60	11.48
+689.	Jaume I University	29	11.47	11.47
+690.	Utah State University (USU)	36	11.41	11.41
+691.	University of Ljubljana	140	12.57	11.41
+692.	University of Greifswald	42	11.35	11.35
+693.	University of Wuppertal	114	11.51	11.35
+694.	ITMO National Research University (ITMO University)	37	11.46	11.33
+695.	Toyota Group	23	11.32	11.32
+696.	Jiangsu Normal University (JSNU)	21	11.32	11.32
+697.	University of London - Royal Holloway (RHUL)	144	11.35	11.28
+698.	Michigan Technological University (Michigan Tech)	34	11.72	11.27
+699.	National University of La Plata (UNLP)	185	23.45	11.22
+700.	Buck Institute for Research on Aging	23	11.20	11.20
+701.	Doshisha University	20	11.46	11.20
+702.	Rovira i Virgili University (URV)	30	11.20	11.20
+703.	Southern Illinois University, Carbondale (SIU)	23	11.16	11.16
+704.	New University of Lisbon (UNL)	79	11.12	11.12
+705.	Moscow Institute of Physics and Technology (State University) - MIPT	117	13.74	11.12
+706.	The College of William & Mary (W&M)	36	11.08	11.08
+707.	GNS Science	54	11.08	11.08
+708.	Medical University of South Carolina (MUSC)	37	11.05	11.05
+709.	ESPCI ParisTech	86	11.04	11.03
+710.	Walter and Eliza Hall Institute of Medical Research (WEHI)	50	11.01	11.01
+711.	Chungnam National University (CNU)	55	15.17	11
+712.	Graz University of Technology (TU Graz)	41	10.98	10.93
+713.	The University of Tokushima	38	11	10.92
+714.	Jacobs University Bremen (IUB)	35	11.18	10.91
+715.	University of New Hampshire (UNH)	76	24.60	10.90
+716.	Cedars-Sinai Medical Center (Cedars-Sinai)	45	10.86	10.86
+717.	Griffith University	44	10.85	10.85
+718.	State University of New York at Binghamton (SUNY Binghamton)	26	10.84	10.84
+719.	Hunan Normal University (HUNNU)	16	10.81	10.81
+720.	The Jackson Laboratory	41	10.67	10.67
+721.	Institut Laue Langevin (ILL)	63	10.64	10.64
+722.	Johannes Kepler University of Linz (JKU)	31	10.61	10.61
+723.	Department of Fisheries and Oceans Canada (DFO)	35	10.59	10.59
+724.	University of Canterbury (UC)	136	13.10	10.52
+725.	Anhui Normal University (AHNU)	18	10.66	10.48
+726.	Hong Kong Baptist University (HKBU)	54	10.44	10.44
+727.	Sanofi	31	10.43	10.43
+728.	University of Delhi (DU)	75	12.48	10.41
+729.	Saitama University	41	10.63	10.40
+730.	University of Nevada, Las Vegas (UNLV)	68	18.89	10.38
+731.	South China Normal University (SCNU)	30	12.36	10.36
+732.	City of Hope	37	10.35	10.35
+733.	John Innes Centre (JIC)	24	10.33	10.33
+734.	U.S. Food and Drug Administration (USFDA)	22	10.32	10.32
+735.	Guru Nanak Dev University (GNDU)	13	10.58	10.32
+736.	National Synchrotron Radiation Research Center (NSRRC)	41	13.50	10.30
+737.	Texas Tech University (TTU)	104	14.73	10.27
+738.	California State University, Northridge (CSUN)	38	11.35	10.25
+739.	University of Calcutta (CU)	22	10.84	10.24
+740.	Missouri University of Science and Technology (MST)	23	10.23	10.23
+741.	Saint Louis University (SLU)	23	10.21	10.21
+742.	National Centre for Scientific Research 'Demokritos' (NCSR)	63	10.20	10.20
+743.	Colorado School of Mines	31	10.17	10.16
+744.	Institute of Cancer Research (ICR)	36	10.14	10.14
+745.	Georgia Regents University (GRU)	26	10.12	10.12
+746.	University of Concepción (UdeC)	259	23.12	10.11
+747.	Université du Québec à Montréal (UQAM)	66	10.10	10.10
+748.	Federal Institute for Materials Research and Testing (BAM)	23	10.10	10.10
+749.	Bowling Green State University (BGSU)	19	10.07	10.07
+750.	China University of Petroleum (CUP)	32	10.17	10.05
+751.	Pontifical Catholic University of Chile (PUC)	354	29.40	10.02
+752.	Okinawa Institute of Science and Technology Graduate University (OIST)	30	10.01	10.01
+753.	Rudjer Boskovic Institute (RBI)	103	11	10.01
+754.	University of Iceland	70	10.74	10.01
+755.	University of North Texas (UNT)	34	11.31	9.97
+756.	University of Ulsan (UOU)	35	9.95	9.95
+757.	International Solvay Institutes	40	9.95	9.95
+758.	Institute of Science and Technology Austria (IST Austria)	27	9.94	9.94
+759.	Gunma University	29	9.94	9.94
+760.	National Museum of Natural History (MNHN)	115	10.07	9.91
+761.	University of Ferrara (UNIFE)	208	13.18	9.88
+762.	National University of Ireland Galway (NUI Galway)	45	11.77	9.86
+763.	Loyola University Chicago (LUC)	26	9.82	9.82
+764.	Institute for Research in Fundamental Sciences (IPM)	69	13.48	9.81
+765.	University of Technology, Sydney (UTS)	30	9.81	9.81
+766.	Assistance Publique-Hôpitaux de Paris (AP-HP)	151	9.80	9.80
+767.	Physical Research Laboratory (PRL)	44	17.25	9.79
+768.	Zhejiang Normal University (ZJNU)	21	9.77	9.77
+769.	National Sun Yat-Sen University (NSYSU)	34	9.76	9.76
+770.	The Graduate Center, CUNY	56	10.21	9.73
+771.	University of Oulu	93	14.85	9.71
+772.	University of Versailles Saint-Quentin-en-Yvelines (UVSQ)	155	11.08	9.71
+773.	University of Rhode Island (URI)	30	9.70	9.70
+774.	Elettra - Sincrotrone Trieste S.C.p.A.	39	10.09	9.69
+775.	National University of Defense Technology (NUDT)	23	9.68	9.63
+776.	Konkuk University (KU)	48	9.62	9.62
+777.	Eli Lilly and Company	28	9.62	9.62
+778.	École Nationale Supérieure de Chimie de Montpellier (ENSCM)	81	9.57	9.57
+779.	Otto-von-Guericke University Magdeburg (OVGU)	37	9.57	9.57
+780.	La Trobe University	60	9.56	9.56
+781.	Kaohsiung Medical University (KMU)	27	9.72	9.56
+782.	Adam Mickiewicz University in Poznań (AMU)	49	14.30	9.51
+783.	Beijing University of Posts and Telecommunications (BUPT)	14	9.49	9.49
+784.	Budapest University of Technology and Economics (BME)	42	9.49	9.49
+785.	Chulalongkorn University (CU)	63	9.52	9.47
+786.	Technical University of Madrid (UPM)	37	10.01	9.46
+787.	University of Alaska Fairbanks (UAF)	44	9.45	9.45
+788.	Zhejiang University of Technology (ZJUT)	27	9.67	9.44
+789.	Japan Advanced Institute of Science and Technology (JAIST)	17	9.42	9.42
+790.	A.I. Alikhanov Institute of Theoretical and Experimental Physics (ITEP)	237	10.12	9.37
+791.	Ilmenau University of Technology (TU Ilmenau)	22	9.36	9.36
+792.	Jiangnan University (JU)	19	9.36	9.36
+793.	Chonbuk National University (CBNU)	69	9.55	9.33
+794.	University of Parma (UNIPR)	115	9.30	9.30
+795.	San Diego State University (SDSU)	41	10.64	9.30
+796.	Flinders University	25	9.27	9.27
+797.	Concordia University	62	9.24	9.24
+798.	University of Cagliari (UNICA)	164	11.38	9.11
+799.	University of London - Birkbeck	44	9.09	9.09
+800.	George Mason University (GMU)	67	17.81	9.08
+801.	University of Siena (UNISI)	328	10.16	9.06
+802.	Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV)	92	9.86	9
+803.	Shizuoka University	25	9.05	8.97
+804.	Gyeongsang National University (GNU)	24	8.95	8.95
+805.	Henan University (HENU)	22	8.95	8.95
+806.	University of Tromsø - The Arctic University of Norway (UiT)	46	8.94	8.87
+807.	Yangzhou University (YZU)	18	8.86	8.86
+808.	University of Windsor (UWin)	20	8.83	8.83
+809.	University of Maryland, Baltimore County (UMBC)	123	14.35	8.80
+810.	Heilongjiang University (HLJU)	15	8.74	8.74
+811.	Nanjing Medical University (NJMU)	32	8.74	8.74
+812.	AGH University of Science and Technology (AGH UST)	142	8.83	8.70
+813.	Chonnam National University (CNU)	86	8.82	8.69
+814.	Jadavpur University (JU)	14	10.02	8.68
+815.	Paris Observatory	550	31.40	8.67
+816.	Andres Bello University (UNAB)	186	14.08	8.65
+817.	Canadian Institute for Advanced Research (CIFAR)	89	9.44	8.64
+818.	Max Born Institute for Nonlinear Optics and Short Pulse Spectroscopy (MBI)	23	8.60	8.60
+819.	University of Nantes	99	8.62	8.57
+820.	Inter-University Centre for Astronomy and Astrophysics (IUCAA)	67	20.80	8.54
+821.	Brigham Young University (BYU)	26	8.93	8.53
+822.	European Space Agency (ESA)	256	29.18	8.47
+823.	Madrid Institute of Advanced Studies (IMDEA)	47	8.47	8.47
+824.	University of Tehran (UT)	27	8.47	8.47
+825.	Federal University of Minas Gerais (UFMG)	31	9.21	8.44
+826.	Korea Research Institute of Chemical Technology (KRICT)	26	8.43	8.43
+827.	Xiangtan University (XTU)	23	8.60	8.41
+828.	University of Calabria (UNICAL)	181	11.70	8.41
+829.	Warsaw University of Technology (WUT)	63	8.58	8.40
+830.	Yokohama National University (YNU)	15	8.42	8.39
+831.	Nanjing University of Aeronautics and Astronautics (NUAA)	25	8.34	8.34
+832.	University of Salento	186	12.07	8.34
+833.	University of Montana (UMT)	31	8.52	8.33
+834.	Donghua University (DHU)	29	8.30	8.30
+835.	Stanford Children's Health	80	8.29	8.29
+836.	Stanford Health Care	81	8.29	8.29
+837.	Rochester Institute of Technology (RIT)	57	17.46	8.28
+838.	Florida Institute of Technology (Florida Tech)	86	11.66	8.28
+839.	University of Portsmouth	100	20.82	8.23
+840.	Shanxi Normal University (SXNU)	14	8.19	8.19
+841.	University of Chemistry and Technology, Prague (UCT)	19	8.17	8.17
+842.	Shenzhen University (SZU)	26	8.17	8.17
+843.	Vilnius University (VU)	76	12.47	8.14
+844.	Research Organization of Information and Systems (ROIS)	45	8.18	8.14
+845.	German Aerospace Center (DLR)	109	14.49	8.13
+846.	National Centre for Nuclear Research (NCBJ)	130	8.68	8.13
+847.	Northeastern University (NEU)	18	8.11	8.11
+848.	University of Tennessee Health Science Center (UTHSC)	28	8.08	8.08
+849.	University of Tartu (UT)	54	8.34	8.07
+850.	Korea Research Institute of Bioscience and Biotechnology (KRIBB)	29	8.06	8.06
+851.	Hunter College of City University of New York (CUNY Hunter College)	33	8.61	8.05
+852.	North Dakota State University (NDSU)	11	8.01	8.01
+853.	India Ministry of Earth Sciences	15	8	8
+854.	University of the Republic (UDELAR)	20	7.99	7.99
+855.	Center for Scientific Studies (CECs)	17	7.98	7.98
+856.	CIC nanoGUNE Consolider	26	8.05	7.97
+857.	National Institute of Science Education and Research (NISER)	77	8.29	7.96
+858.	Inha University	35	7.95	7.95
+859.	University of Jinan (UJN)	15	7.91	7.91
+860.	Huaqiao University (HQU)	13	7.91	7.91
+861.	University of Savoy	218	9.08	7.90
+862.	Centre for Genomic Regulation (CRG)	75	7.88	7.88
+863.	Tampere University of Technology (TUT)	126	8.71	7.87
+864.	Huaibei Normal University (HUN)	10	7.86	7.86
+865.	University of Alicante (UA)	51	12.40	7.85
+866.	Foundation for Research and Technology - Hellas (FORTH)	52	10.14	7.85
+867.	University of Shizuoka	13	7.84	7.84
+868.	University of Osnabrück (Uni Osnabrück)	26	7.84	7.84
+869.	Northwest Normal University (NWNU)	11	7.83	7.83
+870.	Institute of Microbial Chemistry (IMC)	12	7.82	7.82
+871.	Maastricht University (UM)	42	7.79	7.79
+872.	Queensland University of Technology (QUT)	48	7.77	7.77
+873.	University of Limerick (UL)	16	7.77	7.77
+874.	Clarkson University	13	7.74	7.74
+875.	National and Kapodistrian University of Athens (UOA)	180	11.09	7.72
+876.	National Institute of Information and Communications Technology (NICT)	36	8.13	7.71
+877.	Shanghai Normal University (SHNU)	26	8.54	7.70
+878.	University of Alabama in Huntsville (UAH)	67	20.66	7.70
+879.	University of Salamanca (USAL)	44	8.31	7.69
+880.	Queens College of City University of New York (CUNY Queens College)	18	7.66	7.66
+881.	French Research Institute for Exploitation of the Sea (Ifremer)	39	7.64	7.64
+882.	The Italian Foundation for Cancer Research (FIRC)	35	7.64	7.64
+883.	Korea Basic Science Institute (KBSI)	38	7.58	7.58
+884.	Beijing University of Technology (BJUT)	22	7.61	7.56
+885.	California Institute for Biomedical Research (Calibr)	12	7.50	7.50
+886.	Southwest Research Institute (SwRI)	102	22.73	7.48
+887.	Houston Methodist	33	7.47	7.47
+888.	The Kitasato Institute	22	7.71	7.45
+889.	University of Debrecen	62	7.44	7.44
+890.	Chubu University	19	7.52	7.40
+891.	University of Science and Technology (UST)	67	9.80	7.39
+892.	Wenzhou University (WZU)	12	7.39	7.39
+893.	Anhui University (AHU)	18	7.38	7.38
+894.	University of Roma Tre	212	10.76	7.38
+895.	University of Vigo (UVIGO)	27	7.88	7.37
+896.	Tianjin University of Technology (TUT)	19	7.34	7.34
+897.	Nagasaki University	19	7.34	7.34
+898. Chinese Academy of Agricultural Sciences (CAAS) 36	7.34	7.34
+899.	Loughborough University	19	7.32	7.32
+900.	École Nationale Supérieure de Chimie de Rennes (ENSCR)	60	7.36	7.29
+901.	Catalan Institute of Nanoscience and Nanotechnology (ICN2)	40	7.28	7.28
+902.	The University of Electro-Communications (UEC)	22	7.60	7.26
+903.	New Jersey Institute of Technology (NJIT)	61	15.21	7.18
+904.	Gulbenkian Science Institute (IGC)	23	7.17	7.17
+905.	Middle East Technical University (METU)	61	7.46	7.17
+906.	Met Office	31	7.33	7.15
+907.	Natural History Museum	34	7.75	7.15
+908.	International Centre for Genetic Engineering and Biotechnology (ICGEB)	14	7.13	7.13
+909.	Centers for Disease Control and Prevention (CDC)	23	7.13	7.13
+910.	Babraham Institute	28	8.71	7.11
+911.	Konan University	22	8.23	7.11
+912.	University of Mons (UMONS)	80	7.53	7.08
+913.	University of Castilla-La Mancha (UCLM)	35	7.25	7.05
+914.	Aoyama Gakuin University (AGU)	31	8.80	7.04
+915.	Miami University	16	7.03	7.03
+916.	Massey University	68	7.28	6.99
+917.	Garvan Institute of Medical Research	38	6.95	6.95
+918.	New Mexico Institute of Mining and Technology (NMT)	49	10.24	6.95
+919.	Federal University of ABC (UFABC)	70	7.38	6.90
+920.	University of Natural Resources and Life Sciences, Vienna (BOKU)	17	6.87	6.87
+921.	The Wistar Institute	18	6.87	6.87
+922.	BASF SE	45	6.83	6.83
+923.	Taiyuan University of Technology (TUT)	16	6.82	6.82
+924.	Dublin City University (DCU)	21	7.08	6.81
+925.	Federal University of Rio Grande do Sul (UFRGS)	70	18.63	6.80
+926.	Jawaharlal Nehru University (JNU)	12	6.78	6.78
+927.	Yerevan State University (YSU)	180	8.29	6.78
+928.	Mississippi State University (MSU)	17	6.88	6.78
+929.	The University of Maine (UMaine)	29	7.56	6.76
+930.	Bangor University	18	6.75	6.75
+931.	Swiss Federal Institute of Aquatic Science and Technology (EAWAG)	24	6.78	6.72
+932.	SUNY Downstate Medical Center (SUNY Downstate)	17	6.72	6.72
+933.	National University of Córdoba (UNC)	56	15.18	6.72
+934.	Qingdao University (QU)	19	6.71	6.71
+935.	Medical University of Innsbruck (MUI)	32	6.71	6.71
+936.	Capital Medical University (CMU)	43	6.70	6.70
+937.	Hubei University (HUBU)	21	6.68	6.68
+938.	Yamaguchi University	16	6.88	6.66
+939.	Rush University	23	6.64	6.64
+940.	North China Electric Power University (NCEPU)	12	6.64	6.64
+941.	Korea Institute of Machinery and Material (KIMM)	21	6.63	6.63
+942.	National Council of Science and Technology (CONACYT)	64	14.93	6.61
+943.	Central Michigan University	15	6.99	6.61
+944.	University of Burgundy	41	6.79	6.61
+945.	Miguel Hernández University of Elche (UMH)	21	6.90	6.60
+946.	University of Alcalá (UAH)	43	8.38	6.60
+947.	Centre for Cooperative Research in Biomaterials (CIC biomaGUNE)	17	6.57	6.57
+948.	University of Haifa (HU)	26	6.70	6.57
+949.	University of Minho (UM)	90	6.56	6.56
+950.	University of Málaga (UMA)	21	6.64	6.56
+951.	Shiraz University	9	6.56	6.56
+952.	Boise State University (BSU)	22	6.54	6.54
+953.	Shantou University (STU)	16	6.52	6.52
+954.	Plymouth University (PU)	28	6.52	6.52
+955.	Banaras Hindu University (BHU)	12	6.67	6.47
+956.	The Open University (OU)	108	12.91	6.46
+957.	University of Salzburg	20	6.45	6.45
+958.	University of Cyprus	56	6.70	6.43
+959.	Northwestern Polytechnical University (NPU)	24	6.42	6.42
+960.	Raja Ramanna Centre for Advanced Technology (RRCAT)	10	6.52	6.42
+961.	Hitachi, Ltd.	27	6.42	6.42
+962.	University of Cantabria (UC)	138	9.68	6.42
+963.	Institut Mines-Télécom	62	6.43	6.41
+964.	National Institute of Pharmaceutical Education and Research (NIPER)	7	6.40	6.40
+965.	Bruker Corporation	44	6.37	6.37
+966.	Météo-France	255	11.73	6.34
+967.	Aristotle University of Thessaloniki (AUTH)	99	9.69	6.34
+968.	Tokyo Metropolitan Institute of Medical Science (IGAKUKEN)	19	6.34	6.34
+969.	Thomas Jefferson National Accelerator Facility (Jefferson Lab)	22	6.34	6.34
+970.	Nanjing Agricultural University (NAU)	18	6.32	6.32
+971.	National Chung Hsing University (NCHU)	24	6.32	6.32
+972.	H. Lee Moffitt Cancer Center & Research Institute	17	6.30	6.30
+973.	Gifu University	32	6.69	6.28
+974.	University of Namur (UNamur)	18	6.63	6.28
+975.	Florida International University (FIU)	77	6.74	6.28
+976.	Oakland University	10	6.27	6.27
+977.	American Museum of Natural History (AMNH)	85	12.44	6.26
+978.	Ehime University	51	9.48	6.24
+979.	University of Paderborn (UPB)	19	6.23	6.23
+980.	Technische Universität Bergakademie Freiberg (TU Bergakademie Freiberg)	14	6.22	6.22
+981.	Kyoto Sangyo University	32	7.61	6.19
+982.	Institute of Mathematical Sciences (IMSc)	14	6.23	6.18
+983.	Microsoft Corporation	27	6.18	6.18
+984.	Shahid Beheshti University (SBU)	11	6.17	6.17
+985.	Isfahan University of Technology (IUT)	24	6.17	6.17
+986.	Yunnan University (YNU)	31	9.96	6.17
+987.	National Research Nuclear University (MEPhI)	150	6.67	6.14
+988.	Indian Space Research Organisation (ISRO)	28	8.94	6.14
+989.	Wroclaw University of Technology (WRUT)	14	6.34	6.14
+990.	University of L'Aquila (UNIVAQ)	136	6.69	6.13
+991.	Commission on Science and Technology for Sustainable Development in the South (COMSATS)	34	6.13	6.13
+992.	Chinese Academy of Geological Sciences (CAGS)	20	6.13	6.13
+993.	Korea Research Institute of Standards and Science (KRISS)	21	6.12	6.12
+994.	University of Italian Switzerland / University of Lugano (USI)	19	6.12	6.12
+995.	Guangxi Normal University (GXNU)	19	6.11	6.11
+996.	Daegu Gyeongbuk Institute of Science and Technology (DGIST)	22	6.09	6.09
+997.	Southern Medical University (SMU)	26	6.07	6.07
+998.	Pondicherry University	8	6.26	6.06
+999.	University of Arkansas for Medical Sciences (UAMS)	15	6.06	6.06
+1000.	University of Hull	38	6.94	6.06
+1001.	Liverpool John Moores University (LJMU)	193	26.77	6.05
+1002.	The University of Texas at El Paso (UTEP)	19	6.44	6.04
+1003.	University of Massachusetts Boston (UMass Boston)	19	6.04	6.04
+1004.	Center for Infectious Disease Research	15	6	6
+1005.	Eastern Mediterranean University (EMU)	6	6	6
+1006.	Wesleyan University	29	9.12	5.99
+1007.	National Physical Laboratory (NPL)	22	5.98	5.98
+1008.	Rosalind Franklin University of Medicine and Science (RFUMS)	12	5.97	5.97
+1009.	University of Kassel	17	5.96	5.96
+1010.	Oklahoma Medical Research Foundation (OMRF)	17	5.92	5.92
+1011.	Mie University	16	5.91	5.91
+1012.	Rikkyo University	29	6.65	5.90
+1013.	Huazhong Agricultural University (HZAU)	20	5.90	5.90
+1014.	Memorial University of Newfoundland (MUN)	20	5.99	5.87
+1015.	Chung Yuan Christian University (CYCU)	17	5.84	5.84
+1016.	Research Institute of Molecular Pathology (IMP)	26	5.77	5.77
+1017.	Kwangwoon University	10	5.75	5.75
+1018.	The University of Memphis (U of M)	16	7.65	5.73
+1019.	BC Cancer Agency (BCCA)	32	5.72	5.72
+1020.	King Saud University (KSU)	43	6.09	5.70
+1021.	Toyohashi University of Technology	9	5.69	5.69
+1022.	University of Valparaíso (UV)	219	16.60	5.69
+1023.	University of Catania	201	8.43	5.68
+1024.	Royal Netherlands Meteorological Institute (KNMI)	19	5.68	5.68
+1025.	Old Dominion University (ODU)	24	6.27	5.67
+1026.	Meijo University	25	5.66	5.66
+1027.	University of Messina (UNIME)	101	5.66	5.66
+1028.	New England Biolabs (NEB)	12	5.64	5.64
+1029.	Xidian University	9	6.42	5.62
+1030.	Linyi University (LYU)	14	5.75	5.62
+1031.	Gakushuin University	11	5.62	5.62
+1032.	University of North Dakota (UND)	19	6.75	5.59
+1033.	Auburn University	24	7.20	5.59
+1034.	Shinshu University (SU)	94	5.83	5.59
+1035.	University of Hertfordshire (UH)	148	23.48	5.56
+1036. Slovak Academy of Sciences (SAS) 122	9.20	5.53
+1037.	U.S. Environmental Protection Agency (EPA)	13	5.52	5.52
+1038.	University of Orléans	76	6.21	5.47
+1039.	Tianjin Medical University (TMC)	19	5.47	5.47
+1040.	Champalimaud Foundation (EN)	12	5.45	5.45
+1041.	University of Massachusetts Lowell (UMass Lowell)	12	6.23	5.43
+1042.	Nicolaus Copernicus University (NCU)	56	13.32	5.42
+1043.	Pablo de Olavide University (UPO)	23	5.41	5.41
+1044.	Leidos Holdings, Inc.	60	5.41	5.41
+1045.	Southern Methodist University (SMU)	107	5.56	5.40
+1046.	University of Zagreb	72	8.02	5.40
+1047.	Kanagawa University	24	5.51	5.40
+1048.	University of Lübeck	66	5.44	5.39
+1049.	Tokyo University of Pharmacy and Life Sciences (TUPLS)	18	5.39	5.39
+1050.	Tomsk State University (TSU)	53	5.38	5.38
+1051.	Roswell Park Cancer Institute (RPCI)	27	5.38	5.38
+1052.	Hasselt University (UHasselt)	16	5.40	5.37
+1053.	Blaise Pascal University	162	5.42	5.36
+1054.	Soongsil University	23	5.89	5.36
+1055.	Center for Cooperative Research in Biosciences (CIC bioGUNE)	19	5.34	5.34
+1056.	Federal University of Rio Grande do Norte (UFRN)	33	10.59	5.34
+1057.	Baylor University	62	6	5.34
+1058.	University of Kent	59	6.40	5.33
+1059.	National Health Research Institutes (NHRI)	21	5.33	5.33
+1060.	Japan Meteorological Agency	18	5.33	5.33
+1061.	Ural Federal University (UrFU)	27	6.34	5.31
+1062.	University of Valladolid	22	6.78	5.27
+1063.	Lobachevsky State University of Nizhni Novgorod (UNN)	31	5.37	5.26
+1064.	Hebei University (HBU)	10	5.25	5.25
+1065.	Kwansei Gakuin University	16	5.58	5.22
+1066.	Jiangxi Normal University (JXNU)	23	5.21	5.21
+1067.	Science Systems and Applications, Inc. (SSAI)	26	5.41	5.21
+1068.	London School of Hygiene and Tropical Medicine (LSHTM)	37	5.19	5.19
+1069.	Zhejiang Sci-Tech University (ZSTU)	21	5.19	5.19
+1070.	Chuo University	12	5.23	5.18
+1071.	Singapore University of Technology and Design (SUTD)	18	5.16	5.16
+1072.	Natural Resources Canada	18	5.15	5.15
+1073.	Jamia Millia Islamia	16	5.68	5.15
+1074.	Indian Institute of Astrophysics (IIA)	67	24.17	5.13
+1075.	Australian Nuclear Science and Technology Organisation (ANSTO)	30	5.12	5.12
+1076.	Federico Santa María Technical University (UTFSM)	88	5.10	5.10
+1077.	University of Chieti (Ud'A)	15	5.10	5.10
+1078.	Ecole Pratique des Hautes Etudes (EPHE)	79	5.09	5.09
+1079.	non-affiliated author contributions	31	7.51	5.05
+1080.	Ningbo University (NBU)	15	5.03	5.03
+1081.	Dankook University (DKU)	14	5.03	5.03
+1082.	Caen University (UNICAEN)	40	5.15	5.02
+1083.	Grenoble Institute of Technology (Grenoble INP)	183	5.60	5.01
+1084.	University of Brescia (UNIBS)	93	5.01	5.01
+1085.	Florida Atlantic University (FAU)	20	5.28	5
+1086.	Centre National d’Etudes Spatiales (CNES)	239	10.33	4.99
+1087.	National Technical University of Athens (NTUA)	98	5.15	4.99
+1088.	Federal University of Paraíba (UFPB)	12	4.99	4.99
+1089.	Xinjiang University (XJU)	9	6.57	4.97
+1090.	Texas State University - San Marcos	18	4.96	4.96
+1091.	ShanghaiTech University	54	4.96	4.96
+1092.	University of Modena and Reggio Emilia (UNIMORE)	129	4.95	4.95
+1093.	Yeungnam University	8	4.95	4.95
+1094.	Mahidol University (MU)	30	5.78	4.95
+1095.	Taras Shevchenko National University of Kyiv	35	5.35	4.95
+1096.	University of California Merced	20	4.95	4.94
+1097.	Syngenta	13	4.92	4.92
+1098.	United Nations (UN)	22	4.92	4.92
+1099.	Johnson & Johnson	23	4.92	4.92
+1100.	General Electric Company (GE)	10	4.91	4.91
+1101.	East Carolina University (ECU)	15	4.91	4.91
+1102.	European Commission (EC)	26	4.91	4.91
+1103.	University of Insubria	121	7.42	4.88
+1104.	The University of Western Sydney (UWS)	43	7.58	4.86
+1105.	University of Eastern Piedmont "Amedeo Avogadro" (UNIPMN)	119	4.85	4.85
+1106.	ChangChun University of Science and Technology (CUST)	18	4.84	4.84
+1107.	Saga University	13	5.03	4.83
+1108.	National Center for Neurology and Psychiatry (NCNP)	13	4.80	4.80
+1109.	Saratov State University	11	4.79	4.79
+1110.	University of Eastern Finland (UEF)	44	4.77	4.77
+1111.	Federal University of Pernambuco (UFPE)	14	4.77	4.77
+1112.	University of Ioannina (UOI)	56	6.53	4.75
+1113.	Tamkang University (TKU)	12	4.75	4.75
+1114.	University of Gdańsk (UG)	17	4.74	4.74
+1115. Bulgarian Academy of Sciences (BAS) 101	10.92	4.74
+1116.	J. Craig Venter Institute (JCVI)	24	4.74	4.74
+1117.	Thermo Fisher Scientific Inc.	20	4.73	4.73
+1118.	Paris-Est Créteil University (UPEC)	57	5.73	4.68
+1119.	Carleton University	120	5.18	4.67
+1120.	Tianjin Normal University (TJNU)	19	4.90	4.66
+1121.	Structural Genomics Consortium (SGC)	29	4.63	4.63
+1122.	Children's National Health System	27	4.62	4.62
+1123.	Tottori University	14	4.60	4.60
+1124.	Institute for Systems Biology (ISB)	20	4.60	4.60
+1125.	Comenius University in Bratislava (UK)	109	6.25	4.59
+1126.	Southwest Jiaotong University (SWJTU)	12	4.73	4.57
+1127.	University of Rouen	24	4.57	4.57
+1128.	National Yang-Ming University (NYMU)	32	4.56	4.56
+1129.	University of Verona (UNIVR)	68	4.54	4.54
+1130.	University of La Rioja (UR)	9	4.54	4.54
+1131.	Northumbria University	18	7.07	4.54
+1132.	University of North Carolina at Charlotte (UNC Charlotte)	13	4.68	4.54
+1133.	Cergy-Pontoise University (UCP)	138	8.12	4.54
+1134.	Oxford University Hospitals NHS Trust (OUH)	67	4.53	4.53
+1135.	Yanshan University (YSU)	10	4.53	4.53
+1136.	French Institute of Science and Technology for Transport, Development and Networks (IFSTTAR)	52	4.62	4.53
+1137.	Florey Institute of Neuroscience and Mental Health	22	4.52	4.52
+1138.	Guizhou University (GZU)	10	4.67	4.52
+1139.	University of Shanghai for Science and Technology (USST)	11	4.52	4.52
+1140.	National Center for Cardiovascular Research (CNIC)	17	4.52	4.52
+1141.	University of Hyogo	21	4.87	4.52
+1142.	S. N. Bose National Centre for Basic Sciences (SNBNCBS)	17	6.46	4.51
+1143.	Cochin University of Science and Technology (CUSAT)	5	4.50	4.50
+1144.	Toshiba Corporation	9	4.50	4.50
+1145.	Kyoto Institute of Technology (KIT)	10	4.49	4.49
+1146.	University of Aalborg (AAU)	26	4.49	4.49
+1147.	Sejong University	38	8.46	4.48
+1148.	National Institute of Water and Atmospheric Research (NIWA)	24	4.45	4.45
+1149.	Waters Corporation	12	4.44	4.44
+1150.	Anhui Medical University (AHMU)	27	4.44	4.44
+1151.	Ibaraki University	30	6.25	4.42
+1152.	Korea Astronomy and Space Science Institute (KASI)	130	20.59	4.42
+1153.	University of Macau (UM)	11	4.38	4.38
+1154.	University of A Coruña (UDC)	14	4.38	4.38
+1155.	QIMR Berghofer Medical Research Institute	46	4.38	4.38
+1156.	Hefei University of Technology (HFUT)	18	4.37	4.37
+1157.	Institute of Molecular Biology gGmbH (IMB)	13	4.37	4.37
+1158.	National Cerebral and Cardiovascular Center (NCVC)	16	4.31	4.31
+1159.	Kyoto Prefectural University of Medicine (KPUM)	11	4.30	4.30
+1160.	MRC Human Genetics Unit (HGU), The University of Edinburgh	45	4.30	4.30
+1161.	Xerox Corporation	15	4.29	4.29
+1162.	AgroParisTech	42	4.26	4.26
+1163.	Chongqing Medical University (CQMU)	16	4.25	4.25
+1164.	Mitsubishi Group	22	4.41	4.25
+1165.	Finnish Meteorological Institute (FMI)	26	4.85	4.24
+1166.	Ritsumeikan University	59	4.24	4.23
+1167.	University of Veterinary Medicine Vienna (VUM)	16	4.22	4.22
+1168.	Worcester Polytechnic Institute (WPI)	11	4.22	4.22
+1169.	Masdar Institute of Science and Technology	7	4.22	4.22
+1170.	University of Palermo (UNIPA)	122	7.08	4.20
+1171.	Brock University	15	4.19	4.19
+1172.	Thales S.A.	31	4.18	4.18
+1173.	Keele University	103	15.78	4.18
+1174.	Université du Québec à Rimouski (UQAR)	30	4.18	4.18
+1175.	National Graduate School of Engineering and Research Center (ENSICAEN)	36	4.31	4.18
+1176.	Federal University of São Carlos (UFSCar)	17	4.37	4.17
+1177.	Naresuan University	9	4.14	4.14
+1178.	Kazan Federal University (KFU)	52	5.84	4.14
+1179.	Swiss Institute of Bioinformatics (SIB)	51	4.13	4.13
+1180.	University of Patras	17	4.13	4.13
+1181.	SUNY Polytechnic Institute (SUNY Poly)	7	4.12	4.12
+1182.	Albany Medical Center	8	4.12	4.12
+1183.	Los Andes University	61	4.91	4.11
+1184.	Institute of Physics, Bhubaneswar	27	4.10	4.10
+1185.	Isis Pharmaceuticals, Inc.	18	4.09	4.09
+1186.	National Atomic Energy Commission (CNEA)	26	4.34	4.09
+1187.	University Institute of France (IUF)	54	4.89	4.08
+1188.	The Catholic University of Korea	16	4.08	4.08
+1189.	Baker IDI Heart and Diabetes Institute	21	4.07	4.07
+1190.	University of Johannesburg (UJ)	89	4.16	4.07
+1191.	Institute Gustave-Roussy (IGR)	48	4.07	4.07
+1192.	International Iberian Nanotechnology Laboratory (INL)	6	4.06	4.06
+1193.	University of Cádiz (UCA)	19	4.93	4.06
+1194.	Center for High Pressure Science and Technology Advanced Research (HPSTAR)	25	4.04	4.04
+1195.	National Institute for Environmental Studies (NIES)	15	4.04	4.04
+1196.	China Shipbuilding Industry Corporation (CSIC)	38	4.02	4.02
+1197.	Western University of Health Sciences (WesternU)	7	4.02	4.02
+1198.	Romanian Academy	24	6.33	4.01
+1199.	Illinois State University	8	4.01	4.01
+1200.	Federal University of Santa Catarina (UFSC)	17	4.69	3.99
+1201.	University of Tours (UFR)	24	4.03	3.98
+1202.	Czech Technical University in Prague (CTU)	126	4.55	3.98
+1203.	Stevens Institute of Technology	9	3.93	3.93
+1204.	Peter MacCallum Cancer Centre (Peter Mac)	24	3.93	3.93
+1205.	National Institute of Chemical Physics and Biophysics (NICPB)	64	4.06	3.92
+1206.	Royal College of Surgeons in Ireland (RCSI)	26	3.91	3.91
+1207.	Nevada System of Higher Education (NSHE)	13	3.91	3.91
+1208.	University of Burgos (UBU)	9	3.91	3.91
+1209.	Illinois Institute of Technology (IIT)	19	3.90	3.90
+1210.	Horia Hulubei National Institute of Physics and Nuclear Engineering (IFIN HH)	155	3.91	3.90
+1211.	The University of Newcastle (UON)	22	3.89	3.89
+1212.	Uniformed Services University of the Health Sciences (USU)	11	3.89	3.89
+1213.	Semmelweis University (SE)	30	3.87	3.87
+1214.	Pontifical Catholic University of Valparaíso (PUCV)	18	4.06	3.87
+1215.	Takeda Pharmaceutical Company Limited	12	3.87	3.87
+1216.	University of Fukui	21	3.85	3.85
+1217.	Chang Gung University (CGU)	21	3.85	3.85
+1218.	Portland State University (PSU)	11	3.84	3.84
+1219.	Rio de Janeiro State University (UERJ)	55	3.83	3.83
+1220.	Fluminense Federal University (UFF)	18	5.53	3.82
+1221.	Taizhou University (TZU)	5	3.81	3.81
+1222.	University of Missouri-Kansas City (UMKC)	42	5.14	3.81
+1223.	University of Silesia (US)	17	4.33	3.81
+1224.	National Institute for Theoretical Physics (NITheP)	21	3.80	3.80
+1225.	University of Massachusetts Dartmouth	17	4.46	3.80
+1226.	National Institute of Immunology (NII)	8	3.78	3.78
+1227.	Kunming University of Science and Technology (KUST)	15	4.38	3.77
+1228.	Fujian Normal University (FNU)	10	3.96	3.76
+1229.	University of Seoul	44	3.75	3.75
+1230.	University of Luxembourg	19	3.75	3.75
+1231.	Indian Institute of Engineering Science and Technology, Shibpur (IIEST, Shibpur)	5	3.75	3.75
+1232.	University of Huelva (UHU)	14	4.41	3.74
+1233.	Visva-Bharati University	24	4.65	3.72
+1234.	University of Yamanashi	15	3.74	3.71
+1235.	Santa Fe Institute (SFI)	28	3.70	3.70
+1236.	Northern Arizona University (NAU)	22	3.87	3.70
+1237.	Hebei University of Technology (HEBUT)	8	3.69	3.69
+1238.	University of Neuchâtel (UniNE)	12	3.68	3.68
+1239.	National Cancer Center (NCC)	10	3.68	3.68
+1240.	Chimie ParisTech (ENSCP)	44	3.69	3.68
+1241.	Aston University	15	3.68	3.68
+1242.	University of Central Lancashire (UCLan)	65	14.05	3.68
+1243.	University of Angers	34	3.71	3.67
+1244.	Beijing Jiaotong University (BJTU)	13	3.64	3.64
+1245.	Sofia University St. Kliment Ohridski	55	5.05	3.64
+1246.	Novo Nordisk A/S	12	3.64	3.64
+1247.	Japan Aerospace Exploration Agency (JAXA)	90	13.13	3.64
+1248.	University of Toulon (UTLN)	41	3.75	3.64
+1249.	Kinki University	15	4.65	3.64
+1250.	Bureau of Meteorology (BOM)	14	3.63	3.63
+1251.	Maria Curie-Skłodowska University (UMCS)	14	5.96	3.61
+1252.	Wuhan Research Institute of Posts and Telecommunications (WRI)	31	3.61	3.61
+1253.	Chemnitz University of Technology (TU Chemnitz)	23	3.63	3.59
+1254.	Juntendo University	23	3.58	3.58
+1255.	University of Missouri-St. Louis (UMSL)	10	4.12	3.58
+1256.	University of Camerino (UNICAM)	47	3.58	3.58
+1257.	Van Andel Research Institute (VAI)	21	3.57	3.57
+1258.	Istanbul Technical University (ITU)	50	3.56	3.56
+1259.	University of the Western Cape (UWC)	81	13.92	3.54
+1260.	Yantai University (YTU)	6	3.54	3.54
+1261.	Agilent Technologies, Inc.	16	3.54	3.54
+1262.	Wenzhou Medical University (WMU)	17	3.53	3.53
+1263.	University of Lethbridge	14	4.14	3.52
+1264.	Federal University of Goiás (UFG)	12	3.52	3.52
+1265.	National Institute of Infectious Diseases (NIID)	12	3.52	3.52
+1266.	Tallinn University of Technology (TUT)	12	3.51	3.51
+1267.	Nantong University (NTU)	16	3.51	3.51
+1268.	Illumina, Inc.	24	3.51	3.51
+1269.	Saint Mary's University (SMU)	29	10.12	3.50
+1270.	Dongguk University	18	3.49	3.49
+1271.	Saint Petersburg State Polytechnical University (SPbSPU)	60	5.03	3.49
+1272.	Ball State University	8	5.09	3.49
+1273.	HRL Laboratories LLC	6	3.49	3.49
+1274.	Rowan University	9	3.47	3.47
+1275.	Atmospheric and Environmental Research, Inc. (AER)	11	3.91	3.47
+1276.	New York State Department of Health	13	3.46	3.46
+1277.	National Dong Hwa University (NDHU)	10	3.44	3.44
+1278.	Federal University of Ceará (UFC)	9	3.44	3.44
+1279.	East China Institute of Technology (ECIT)	5	3.41	3.41
+1280.	Texas Tech University Health Sciences Center (TTUHSC)	8	3.41	3.41
+1281.	Aberystwyth University	20	7.47	3.37
+1282.	University of Navarra (UNAV)	12	3.37	3.37
+1283.	Raman Research Institute (RRI)	35	10.53	3.36
+1284.	Guangdong University of Technology (GDUT)	9	3.35	3.35
+1285.	Bose Institute	21	3.35	3.35
+1286.	The University of Winnipeg	13	3.35	3.35
+1287.	Federal University of Maranhão (UFMA)	4	3.33	3.33
+1288.	Northern Illinois University (NIU)	94	3.33	3.33
+1289.	European Centre for Medium-Range Weather Forecasts (ECMWF)	8	3.33	3.33
+1290.	National University of Colombia (UNAL)	54	3.48	3.32
+1291.	Indian Statistical Institute (ISI)	6	3.31	3.31
+1292.	University of Szeged (SZTE)	26	4.37	3.31
+1293. U.S. Department of Energy (DOE) 25	3.30	3.30
+1294.	Catalan Health Institute (ICS)	41	3.30	3.30
+1295.	Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)	14	3.29	3.29
+1296.	AB Sciex	8	3.29	3.29
+1297.	Universities Space Research Association (USRA)	150	6.36	3.27
+1298.	Kobe Pharmaceutical University	7	3.27	3.27
+1299.	Norwegian Polar Institute	10	3.26	3.26
+1300.	Catholic University of the Sacred Heart (UCSC)	17	3.25	3.25
+1301.	Southern Federal University (SFedU)	17	5.16	3.25
+1302.	University of Denver (DU)	23	4.55	3.25
+1303.	University of Paris Nord (Paris 13)	25	3.25	3.25
+1304.	National Institute for Research in Computer Science and Control (INRIA)	32	3.37	3.25
+1305.	Duquesne University	10	3.23	3.23
+1306.	University of Ulster (UU)	7	3.23	3.23
+1307.	Linnaeus University (LNU)	15	3.25	3.22
+1308.	University of Essex	14	3.22	3.22
+1309.	Institute of Bioengineering of Catalonia (IBEC)	15	3.21	3.21
+1310.	Tokushima Bunri University	13	3.21	3.21
+1311.	Åbo Akademi University	24	3.21	3.21
+1312.	Russian Quantum Center (RQC)	17	3.20	3.20
+1313.	General Atomics	21	3.20	3.20
+1314.	Nanyang Normal University	9	3.52	3.19
+1315.	Xuzhou Medical University (XZMC)	12	3.18	3.18
+1316.	Federal University of Paraná (UFPR)	9	3.18	3.18
+1317.	Hamamatsu University School of Medicine	12	3.18	3.18
+1318.	National University of Science and Technology (MISIS)	26	3.17	3.17
+1319.	University of Haute-Alsace (UHA)	36	3.19	3.17
+1320.	Nara Women's University	15	3.16	3.16
+1321.	European Theoretical Spectroscopy Facility (ETSF)	15	3.16	3.16
+1322.	Australian Synchrotron	25	3.16	3.16
+1323.	JiangXi University of Science and Technology (JUST)	6	3.14	3.14
+1324.	Liaoning Normal University (LNNU)	5	3.14	3.14
+1325.	University of Pardubice	9	3.14	3.14
+1326.	Alexion Pharmaceuticals, Inc.	4	3.14	3.14
+1327.	Element Six	12	3.13	3.13
+1328.	Gilead Sciences, Inc.	7	3.13	3.13
+1329.	Hainan University (HU)	9	3.22	3.13
+1330.	Wilfrid Laurier University (WLU)	6	3.11	3.11
+1331.	Geological Survey of Norway (NGU)	14	3.10	3.10
+1332.	Federal University of São Paulo (UNIFESP)	18	3.08	3.08
+1333.	Swedish Meteorological and Hydrological Institute (SMHI)	22	3.08	3.08
+1334.	UGC-DAE Consortium for Scientific Research	7	3.08	3.08
+1335.	Nihon University	24	3.40	3.08
+1336.	Western Michigan University (WMU)	20	4.14	3.08
+1337.	Gdansk University of Technology (PG)	14	3.07	3.07
+1338.	University of Grenoble	13	3.07	3.07
+1339.	National Centre for Cell Science (NCCS)	8	3.06	3.06
+1340.	University of Huddersfield	8	3.06	3.06
+1341.	Swedish Museum of Natural History	17	3.05	3.05
+1342.	University of Hohenheim	10	3.05	3.05
+1343.	National Taiwan University of Science and Technology (NTUST)	13	3.05	3.05
+1344.	University of Poitiers	13	3.05	3.05
+1345.	Meharry Medical College	7	3.04	3.04
+1346.	Tarbiat Modares University	4	3.04	3.04
+1347.	Catholic University of America (CUA)	53	8.87	3.03
+1348.	Search for Extraterrestrial Intelligence Institute (SETI Institute)	64	8.63	3.03
+1349.	Changmao Biochemical Engineering Company Limited	13	3.03	3.03
+1350.	China Electronics Technology Group Corporation (CETC)	11	3.02	3.02
+1351.	Electronics and Telecommunications Research Institute (ETRI)	13	3.02	3.02
+1352.	Jichi Medical University	13	3.02	3.02
+1353.	SRON Netherlands Institute for Space Research	98	11.48	3.02
+1354.	Polytechnic University of Bari	83	3.04	3.01
+1355.	Kagoshima University	24	5.51	3.01
+1356.	Academy of Athens	23	6.42	3.01
+1357.	Lehman College of the City University of New York (CUNY Lehman College)	10	3.07	3.01
+1358.	Guangzhou Medical University (GMU)	16	3.01	3.01
+1359.	Centre of Biomedical Research (CBMR)	3	3	3
+1360.	National Cancer Center (NCC)	13	3	3
+1361.	Savitribai Phule Pune University (SPPU)	14	3.26	2.99
+1362.	Johnson Matthey (JM)	5	2.99	2.99
+1363.	Federal University of Espírito Santo (UFES)	12	3.62	2.99
+1364.	Adolfo Ibáñez University (UAI)	9	3.24	2.97
+1365.	Institute of Optics Graduate School	17	2.96	2.96
+1366.	VTT Technical Research Centre of Finland	40	2.96	2.95
+1367.	Defence Science and Technology Laboratory (DSTL)	12	2.95	2.95
+1368.	Loma Linda University (LLU)	6	2.93	2.93
+1369.	University of Mazandaran	7	6.13	2.93
+1370.	Centre Suisse d'Electronique et Microtechnique SA (CSEM SA)	7	2.91	2.91
+1371.	National Institute of Chemistry, Slovenia	12	2.91	2.91
+1372.	Department for Environment, Food and Rural Affairs (Defra)	11	2.91	2.91
+1373.	Ca' Foscari University of Venice (UNIVE)	49	2.91	2.91
+1374.	University of Brasília (UnB)	15	3.30	2.90
+1375.	University of Applied Sciences and Arts Northwestern Switzerland (FHNW)	21	6.38	2.90
+1376.	Defence Research and Development Organisation (DRDO)	4	2.90	2.90
+1377.	Youngstown State University (YSU)	21	3.37	2.90
+1378.	Central Institute of Mental Health (CIMH)	16	2.89	2.89
+1379.	Melbourne Health	34	2.88	2.88
+1380.	Kochi University	15	2.89	2.88
+1381.	University of Maine	20	2.88	2.88
+1382.	University of Udine (UNIUD)	150	2.98	2.88
+1383.	Tokyo Gakugei University (TGU)	12	3.76	2.88
+1384.	Siksha O Anusandhan University (SOA)	6	2.88	2.88
+1385.	HudsonAlpha Institute for Biotechnology	34	2.87	2.87
+1386.	National Institute for Aerospace Technology (INTA)	160	10.70	2.86
+1387.	University of the Ryukyus	8	2.86	2.86
+1388.	Shanghai Institute of Technology (SIT)	6	2.86	2.86
+1389.	Brunel University London	53	2.84	2.84
+1390.	University of Lodz (UL)	34	5.16	2.84
+1391.	Roskilde University (RUC)	10	2.82	2.82
+1392.	Nathan S. Kline Institute for Psychiatric Research (NKI)	15	2.81	2.81
+1393.	Yunnan Normal University (YNNU)	15	4.77	2.81
+1394.	Dublin Institute for Advanced Studies (DIAS)	35	4.45	2.81
+1395.	L.N.Gumilyov Eurasian National University (ENU)	7	2.79	2.79
+1396.	École Supérieure de Chimie Physique Électronique de Lyon or (CPE Lyon)	24	2.77	2.77
+1397.	Rhodes University (RU)	59	5.22	2.77
+1398.	Cambridge University Hospitals NHS Foundation Trust	69	2.77	2.77
+1399.	Promega Corporation	7	2.77	2.77
+1400.	Bavarian Academy of Sciences and Humanities (BADW)	12	2.76	2.76
+1401.	South African Astronomical Observatory (SAAO)	74	12.80	2.76
+1402.	University of Franche-Comté (UFC)	41	4.13	2.75
+1403.	Morehouse School of Medicine (MSM)	10	2.75	2.75
+1404.	Thapar University (TU)	4	2.75	2.75
+1405.	Field Museum of Natural History	18	2.94	2.75
+1406.	Nuclear Threat Initiative (NTI)	4	2.75	2.75
+1407.	Toho University	25	3.07	2.73
+1408.	University of Cordoba (UCO)	12	2.73	2.73
+1409.	Henry Ford Health System (HFHS)	10	2.73	2.73
+1410.	Alberta Health Services (AHS)	31	2.72	2.72
+1411.	Benemérita Universidad Autónoma de Puebla (BUAP)	63	2.79	2.72
+1412.	National Observatory of Athens (NOA)	53	8.39	2.70
+1413.	National University of Sciences and Technology (NUST)	8	2.84	2.70
+1414.	D. E. Shaw Research	6	2.70	2.70
+1415.	Kookmin University	8	2.69	2.69
+1416.	Monterey Bay Aquarium Research Institute (MBARI)	9	2.73	2.69
+1417.	University of Antioquia (UdeA)	17	4.04	2.68
+1418.	National Research University Higher School of Economics (HSE)	12	2.73	2.68
+1419.	Centrale Graduate School	16	2.68	2.68
+1420.	Institut des Hautes Études Scientifiques (IHÉS)	11	2.67	2.67
+1421.	Venetian Institute of Molecular Medicine (VIMM)	16	2.67	2.67
+1422.	Trinity University	7	2.67	2.67
+1423.	Hospital del Mar	23	2.66	2.66
+1424.	École Centrale de Marseille	17	2.73	2.66
+1425.	Ankara University	80	2.76	2.66
+1426.	Indira Gandhi Centre for Atomic Research (IGCAR)	4	2.65	2.65
+1427.	Superior National School of Advanced Techniques (ENSTA ParisTech)	18	2.65	2.65
+1428.	Diego Portales University (UDP)	67	6.24	2.65
+1429.	University of the Punjab	16	3.53	2.64
+1430.	National Research Institute for Earth Science and Disaster Prevention (NIED)	11	2.64	2.64
+1431.	Spanish Institute of Oceanography (IEO)	10	2.64	2.64
+1432.	Chevron Corporation	14	2.64	2.64
+1433.	University of Santiago, Chile (Usach)	10	2.64	2.64
+1434.	Allen Institute for Brain Science	10	2.64	2.64
+1435.	National Institute of Radiological Sciences (NIRS)	7	2.64	2.63
+1436.	Institute for Energy Technology (IFE)	6	2.63	2.63
+1437.	University of Guadalajara (UDG)	21	4.87	2.63
+1438.	Pontifical Catholic University of Rio Grande do Sul (PUCRS)	7	2.63	2.63
+1439.	Rosario National University (UNR)	16	2.63	2.63
+1440.	Bruno Kessler Foundation (FBK)	25	2.71	2.63
+1441.	National Optical Astronomy Observatory (NOAO)	126	12.74	2.62
+1442.	Hirosaki University	13	2.84	2.62
+1443.	South Central University for Nationalities (SCUN)	8	2.62	2.62
+1444.	Geological Survey of Israel	10	2.61	2.61
+1445.	Air Force Engineering University	3	2.61	2.61
+1446.	Royal Dutch Shell plc	15	2.63	2.60
+1447.	Western Australia Department of Mines and Petroleum (DMP)	7	2.60	2.60
+1448.	University of León (ULE)	5	3	2.60
+1449.	Canadian Light Source Inc.	16	2.60	2.60
+1450.	National Chi Nan University (NCNU)	5	2.59	2.59
+1451.	Sangamo BioSciences Inc.	4	2.59	2.59
+1452.	Hampton University	89	2.93	2.57
+1453.	Heidelberg Institute for Theoretical Studies (HITS)	53	10.25	2.57
+1454.	Google Inc.	12	2.63	2.57
+1455.	Ryerson University	5	2.57	2.57
+1456.	Rothamsted Research	8	2.56	2.56
+1457.	Toyama Prefectural University	6	2.55	2.55
+1458.	Planetary Science Institute (PSI)	36	5.23	2.55
+1459.	Osaka Bioscience Institute	6	2.54	2.54
+1460.	Boğaziçi University (BU)	111	2.90	2.54
+1461.	The Dow Chemical Company	21	2.54	2.54
+1462.	Uni Research Ltd.	22	2.54	2.54
+1463.	University of New Brunswick	7	2.53	2.53
+1464.	University of Évry-Val d'Essonne (UEVE)	17	2.53	2.53
+1465.	Kyushu Institute of Technology	12	2.53	2.53
+1466.	Kennesaw State University (KSU)	13	2.52	2.52
+1467.	Southwest University of Science and Technology (SWUST)	4	2.52	2.52
+1468.	Korea Institute of Atmospheric Prediction Systems (KIAPS)	6	2.52	2.52
+1469.	Hamburg University of Technology (TUHH)	9	2.51	2.51
+1470.	University of Colima (UCOL)	8	2.51	2.51
+1471.	Meiji Pharmaceutical University	3	2.50	2.50
+1472.	Monell Chemical Senses Center (Monell Center)	6	2.50	2.50
+1473.	Shriners Hospitals for Children	12	2.50	2.50
+1474.	Western Washington University (WWU)	14	2.73	2.50
+1475.	National Institute of Agrobiological Sciences (NIAS)	7	2.50	2.50
+1476.	Inje University	7	2.49	2.49
+1477.	Norwegian University of Life Sciences (NMBU)	15	2.49	2.49
+1478.	Clark University	8	2.49	2.49
+1479.	National Taipei University of Technology (NTUT)	9	2.49	2.49
+1480.	Intel Corporation	17	2.50	2.48
+1481.	Armagh Observatory	45	12.13	2.48
+1482.	Skåne University Hospital (SUS)	22	2.48	2.48
+1483.	Regeneron Pharmaceuticals, Inc.	9	2.48	2.48
+1484.	Taiyuan University of Science and Technology (TYUST)	8	3.69	2.47
+1485.	V.N. Karazin Kharkiv National University	8	2.94	2.47
+1486.	Yeshiva University (YU)	8	2.47	2.47
+1487.	Lodz University of Technology	7	2.47	2.47
+1488.	University of Louisiana at Lafayette (UL Lafayette)	6	2.47	2.47
+1489.	University of Regina	31	2.47	2.47
+1490.	Medical University of Gdansk (MUG)	7	2.46	2.46
+1491.	Tomsk State Pedagogical University (TSPU)	8	2.46	2.46
+1492.	São Paulo Research Foundation (FAPESP)	19	2.71	2.45
+1493.	New York Structural Biology Center (NYSBC)	9	2.43	2.43
+1494.	Second University of Naples (SUN)	87	2.42	2.42
+1495.	Kasetsart University	7	2.41	2.41
+1496.	National Office for Aerospace Studies and Research (ONERA)	12	2.84	2.41
+1497.	Salus University	3	2.40	2.40
+1498.	Marche Polytechnic University	88	2.39	2.39
+1499.	Australian Institute of Marine Science (AIMS)	14	2.39	2.39
+1500.	Azarbaijan Shahid Madani University	3	2.38	2.38
+1501.	China West Normal University (CWNU)	5	2.50	2.37
+1502.	Gachon University (GCU)	17	2.37	2.37
+1503.	Centre for Energy, Environment and Technology (CIEMAT)	102	3.19	2.37
+1504.	Netherlands Organisation for Applied Scientific Research (TNO)	20	2.48	2.37
+1505.	Hospital for Special Surgery (HSS)	9	2.37	2.37
+1506.	Clausthal University of Technology (TU Clausthal)	5	2.37	2.37
+1507.	South China Agricultural University (SCAU)	13	2.37	2.37
+1508.	National Institute of Oceanography and Experimental Geophysics (OGS)	5	2.36	2.36
+1509.	Pukyong National University (PKNU)	9	2.36	2.36
+1510.	University of Sassari (UniSS)	60	2.35	2.35
+1511.	Center of Advanced European Studies and Research (CAESAR)	11	2.35	2.35
+1512.	University of Jaén (UJU)	10	4.38	2.35
+1513.	Geological Survey of Denmark and Greenland (GEUS)	7	2.35	2.35
+1514.	National Institute of Health (ISS)	15	2.35	2.35
+1515.	Bureau de Recherches Gologiques et Minires (BRGM)	17	2.34	2.34
+1516.	Liaocheng University (LCU)	5	2.34	2.34
+1517.	Vertex Pharmaceuticals Incorporated	6	2.33	2.33
+1518.	Ontario Institute for Cancer Research (OICR)	25	2.33	2.33
+1519.	Qingdao Agricultural University (QAU)	5	2.33	2.33
+1520.	Benaroya Research Institute at Virginia Mason (BRI)	10	2.32	2.32
+1521.	Bowdoin College	6	2.32	2.32
+1522.	The Samuel Roberts Noble Foundation	5	2.32	2.32
+1523.	University of Southern Mississippi (USM)	7	2.31	2.31
+1524.	Fisheries Research Agency (FRA)	6	2.31	2.31
+1525.	Ningxia University (NXU)	6	2.31	2.31
+1526.	University of Urbino	80	2.69	2.30
+1527.	San Francisco State University (SF State)	28	4.71	2.30
+1528.	Institute of Electronic Materials Technology (ITME)	8	2.30	2.30
+1529.	Wonkwang University	6	2.30	2.30
+1530.	College of Staten Island of The City University of New York (CUNY CSI)	15	2.56	2.30
+1531.	Huaiyin Normal University (HYTC)	9	2.29	2.29
+1532.	Australian Astronomical Observatory (AAO)	117	11.34	2.29
+1533.	City University London	10	2.95	2.29
+1534.	St. Joseph's Hospital and Medical Center (SJHMC)	8	2.28	2.28
+1535.	Seoul National University of Science and Technology (SeoulTech)	5	2.26	2.26
+1536.	University of Malaya (UM)	75	2.26	2.26
+1537.	Berkeley Geochronology Center (BGC)	14	2.25	2.25
+1538.	Toin University of Yokohama	4	2.24	2.24
+1539.	National Institute of Biomedical Innovation (NIBIO)	7	2.24	2.24
+1540.	Gemini Observatory	78	10.59	2.23
+1541.	Birla Institute of Technology and Science (BITS Pilani)	7	2.66	2.23
+1542.	Ochanomizu University	19	2.22	2.22
+1543.	OEwaves, Inc.	3	2.22	2.22
+1544.	Austrian Centre of Industrial Biotechnology (ACIB)	7	2.22	2.22
+1545.	Daiichi Sankyo Co., Ltd.	13	2.22	2.22
+1546.	Wuhan Institute of Technology (WIT)	7	2.21	2.21
+1547.	Federal University of Santa Maria (UFSM)	13	3.38	2.21
+1548.	The Hospital District of Helsinki and Uusimaa (HUS)	51	2.20	2.20
+1549.	Silesian University in Opava (SLU)	10	5	2.20
+1550.	Hamamatsu Photonics K.K.	5	2.20	2.20
+1551.	Chinese Center for Disease Control and Prevention (China CDC)	22	2.20	2.20
+1552.	University of Rzeszów	5	3	2.20
+1553.	St Vincent's Health Australia	29	2.19	2.19
+1554.	Chiba Institute of Technology	7	2.64	2.18
+1555.	Shibaura Institute of Technology (SIT)	5	2.18	2.18
+1556.	Amrita Vishwa Vidyapeetham (Amrita University)	6	2.63	2.17
+1557.	Latvian Institute of Organic Synthesis (IOS)	4	2.17	2.17
+1558.	European X-ray Free-Electron Laser Facility GmbH (XFEL)	14	2.16	2.16
+1559.	Istanbul University	27	3.76	2.16
+1560.	Plymouth Marine Laboratory (PML)	8	2.16	2.16
+1561.	Nagoya City University	18	2.58	2.16
+1562.	Tokai University	23	2.22	2.16
+1563.	University of Guanajuato (UG)	25	4.42	2.15
+1564.	Vietnam National University - Ho Chi Minh City (VNU-HCM)	7	2.15	2.15
+1565.	Sharif University of Technology (SUT)	18	2.83	2.14
+1566.	Amherst College	14	2.68	2.14
+1567.	University of La Rochelle	14	2.14	2.14
+1568.	The Nature Conservancy	15	2.14	2.14
+1569.	Ivane Javakhishvili Tbilisi State University (TSU)	116	2.27	2.13
+1570.	International Institute of Molecular and Cell Biology (IIMCB)	5	2.13	2.13
+1571.	Manchester Metropolitan University (MMU)	7	2.13	2.13
+1572.	Earth & Space Research (ESR)	6	2.13	2.13
+1573.	AbbVie Inc.	4	2.13	2.13
+1574.	University of Latvia (LU)	14	2.72	2.12
+1575.	University of Limoges (ULIM)	13	2.11	2.11
+1576.	Telethon Institute of Genetics and Medicine (TIGEM)	10	2.11	2.11
+1577.	Sabanci University (SU)	19	7.37	2.11
+1578.	Babeș-Bolyai University (UBB)	10	2.38	2.11
+1579.	Central Washington University (CWU)	10	2.11	2.11
+1580.	Kagawa University	9	2.10	2.10
+1581.	Nagaoka University of Technology (NUT)	5	2.10	2.10
+1582.	Shanghai University of Engineering Sciences (SUES)	3	2.10	2.10
+1583.	National Applied Research Laboratories (NARLabs)	11	2.09	2.09
+1584.	Korea Institute of Ocean Science and Technology (KIOST)	9	2.09	2.09
+1585.	Translational Health Science and Technology Institute (THSTI)	3	2.09	2.09
+1586.	National Center for Theoretical Sciences (NCTS)	21	2.15	2.09
+1587.	Hamad bin Khalifa University (HBKU)	23	3.63	2.08
+1588.	Belgian Institute for Space Aeronomy (BIRA-IASB)	30	3.92	2.08
+1589.	Kansai University	7	2.08	2.08
+1590.	Western Digital Corporation	7	2.08	2.08
+1591.	National Park Service (NPS)	14	2.08	2.08
+1592.	Hangzhou Dianzi University (HDU)	5	2.07	2.07
+1593.	Wright State University	10	2.07	2.07
+1594.	University of South Alabama	14	2.12	2.06
+1595.	Suranaree University of Technology (SUT)	20	2.06	2.06
+1596.	Royal Philips (Philips)	12	2.06	2.06
+1597.	Tohoku Pharmaceutical University	5	2.06	2.06
+1598.	Franklin and Marshall College (F&M)	13	2.25	2.05
+1599.	Islamic Azad University (IAU)	23	2.29	2.05
+1600.	University of Colorado at Colorado Springs (UCCS)	5	2.05	2.05
+1601.	Catholic Kwandong University (CKU)	9	2.05	2.05
+1602.	Imperial College Healthcare NHS Trust	27	2.05	2.05
+1603.	Medical University of Lodz (MUL)	5	2.05	2.05
+1604.	National Bureau of Economic Research (NBER)	9	2.04	2.04
+1605.	University of Picardie Jules Verne (UPJV)	26	2.18	2.04
+1606.	SA Health	19	2.04	2.04
+1607.	Atomic Weapons Establishment (AWE)	14	2.36	2.04
+1608.	Research Institute for Astronomy and Astrophysics of Maragha (RIAAM)	12	2.68	2.04
+1609.	Taipei Medical University (TMU)	13	2.03	2.03
+1610.	University of Reims Champagne-Ardenne (URCA)	8	2.19	2.03
+1611.	University of South Bohemia	13	2.45	2.03
+1612.	University of Malta	11	2.36	2.02
+1613.	Nestlé S.A.	5	2.02	2.02
+1614.	Royal DSM N.V.	8	2.02	2.02
+1615.	National Cancer Centre Singapore (NCCS)	11	2.02	2.02
+1616.	non-affiliated author contributions	16	6.24	2.02
+1617.	SRI International	6	2.13	2.01
+1618.	Agriculture and Agri-Food Canada (AAFC)	8	2.01	2.01
+1619.	Incheon National University (INU)	11	2.01	2.01
+1620.	Swiss National Science Foundation (SNSF)	18	2.01	2.01
+1621.	Tianjin Chengjian University (TCU)	2	2	2
+1622.	Seattle Genetics, Inc.	2	2	2
+1623.	University of Craiova	5	2	2
+1624.	Ruppin Academic Center	4	2	2
+1625.	Villanova University	16	3.15	2
+1626.	Saitama Medical University (SMU)	14	2	2
+1627.	University of London - St George's (SGUL)	18	1.99	1.99
+1628.	National Geographic Institute (IGN)	44	8.69	1.99
+1629.	Great Ormond Street Hospital for Children NHS Trust	19	1.99	1.99
+1630.	The Jan Kochanowski University in Kielce (UJK)	12	2.54	1.99
+1631.	Ariel University (AU)	4	1.98	1.98
+1632.	Gannan Normal University (GNU)	11	1.98	1.98
+1633.	Istituto Nazionale di Ricerca Metrologica (INRIM)	8	1.97	1.97
+1634.	Sheffield Hallam University (SHU)	8	1.97	1.97
+1635.	National Solar Observatory (NSO)	28	9.80	1.96
+1636.	Zoological Society of London (ZSL)	11	1.96	1.96
+1637.	University of Northern Iowa (UNI)	4	1.95	1.95
+1638.	Korea Electronics Technology Institute (KETI)	9	1.94	1.94
+1639.	Lockheed Martin Corporation	37	8.40	1.94
+1640.	Inner Mongolia University of Science and Technology	3	1.94	1.94
+1641.	Gebze Technical University (GYTE)	5	1.94	1.94
+1642.	STMicroelectronics	11	1.94	1.94
+1643.	Chang Gung Medical Foundation	19	1.94	1.94
+1644.	Lakehead University	7	1.93	1.93
+1645.	San Jose State University (SJSU)	43	3.79	1.93
+1646.	Haverford College	22	2.98	1.93
+1647.	North China University of Science and Technology (NCST)	4	1.93	1.93
+1648.	University of the Sciences in Philadelphia (USciences)	5	1.92	1.92
+1649.	National University of Ireland Maynooth (NUI Maynooth)	24	1.97	1.92
+1650.	IMT Institute for Advanced Studies Lucca	33	2.05	1.92
+1651.	Odessa I. I. Mechnikov National University (UNO)	15	3.61	1.92
+1652.	National Chung Cheng University (CCU)	4	1.91	1.91
+1653.	IFP Energies Nouvelles (IFPEN)	4	1.91	1.91
+1654.	Northeast Ohio Medical University (NEOMED)	4	1.89	1.89
+1655.	Murray State University	2	1.89	1.89
+1656.	State University of New York College of Environmental Science and Forestry (SUNY-ESF)	8	1.89	1.89
+1657.	Hebei Normal University	11	2.72	1.88
+1658.	University of Stavanger (UiS)	7	1.88	1.88
+1659.	Panasonic Corporation	4	1.88	1.88
+1660.	National Institute of Materials Physics (NIMP)	2	1.88	1.88
+1661.	Korea Polar Research Institute (KOPRI)	10	1.94	1.87
+1662.	Shenyang Pharmaceutical University (SPU)	6	1.87	1.87
+1663.	Swarthmore College	14	3.20	1.87
+1664.	Nazarbayev University (NU)	10	2.09	1.86
+1665.	California State University Long Beach (CSULB)	13	1.86	1.86
+1666.	University of Texas Rio Grande Valley (UTRGV)	19	3.31	1.86
+1667.	University of Northern British Columbia (UNBC)	7	1.86	1.86
+1668.	North University of China (NUC)	8	1.85	1.85
+1669.	Chungbuk National University	24	4.75	1.85
+1670.	National Defense Medical Center (NDMC)	10	1.85	1.85
+1671.	NHS Lothian	47	1.85	1.85
+1672.	Dalian Medical University (DMU)	10	1.85	1.85
+1673.	Carilion Clinic	9	1.85	1.85
+1674.	CAS Center for Excellence in Quantum Information and Quantum Technology Frontier (Shanghai), USTC	6	1.85	1.85
+1675.	University of Bucharest (UB)	15	1.89	1.84
+1676.	Cadi Ayyad University (UCA)	74	1.84	1.84
+1677.	Liaoning Shihua University	4	1.84	1.84
+1678.	BP p.l.c.	14	1.84	1.84
+1679.	Eisai Co., Ltd.	7	1.84	1.84
+1680.	Vietnam Academy of Science and Technology (VAST)	24	2.68	1.84
+1681.	University of Isfahan (UI)	5	1.83	1.83
+1682.	Guy's and St Thomas' NHS Foundation Trust	36	1.83	1.83
+1683.	Kaneka Corporation	3	1.83	1.83
+1684.	Southern Connecticut State University (SCSU)	13	2.74	1.83
+1685.	Senckenberg Nature Research Society (SGN)	43	1.82	1.82
+1686.	Catholic University of the North (UCN)	39	5.30	1.82
+1687.	North-West University (NWU)	40	8.31	1.81
+1688.	Cranfield University	6	1.81	1.81
+1689.	South Dakota State University (SDSU)	6	1.81	1.81
+1690.	Wuhan University of Science and Technology (WUST)	6	1.80	1.80
+1691.	Al-Farabi Kazakh National University (KazNU)	5	1.82	1.80
+1692.	University of Alaska Anchorage (UAA)	15	1.91	1.80
+1693.	Scientific Centre of Monaco (CSM)	3	1.79	1.79
+1694.	Federal University of Viçosa (UFV)	7	1.79	1.79
+1695.	Alexandru Ioan Cuza University	3	1.79	1.79
+1696.	CIC Energigune	8	1.78	1.78
+1697.	China Aerospace Science and Technology Corporation (CASC)	27	2.99	1.78
+1698.	Reykjavik University	6	1.78	1.78
+1699.	NanoTecCenter Weiz Forschungsgesellschaft mbH	2	1.78	1.78
+1700.	Minzu University of China (MUC)	5	1.77	1.77
+1701.	Cell Signaling Technology, Inc.	12	1.77	1.77
+1702.	Australian Antarctic Division (AAD)	14	1.77	1.77
+1703.	Royal Swedish Academy of Sciences (RSAS)	18	1.77	1.77
+1704.	Hacettepe University	21	2.16	1.76
+1705.	Institute of Applied Physics and Computational Mathematics (IAPCM)	10	3.59	1.76
+1706.	Geoscience Australia	5	2.16	1.76
+1707.	Royal Observatory of Belgium (ROB)	49	6.37	1.76
+1708.	National Chiayi University	4	1.76	1.76
+1709.	23andMe, Inc.	9	1.75	1.75
+1710.	Remote Sensing Solutions, Inc.	2	1.75	1.75
+1711.	Peptide Institute, Inc.	2	1.75	1.75
+1712.	Fukushima Medical University (FMU)	7	1.75	1.75
+1713.	WuXi AppTec	21	1.75	1.75
+1714.	Charles Stark Draper Laboratory	7	1.75	1.75
+1715.	Tianjin University of Science and Technology (TUST)	5	1.74	1.74
+1716.	University of San Diego (USD)	7	1.94	1.74
+1717.	Federal Office for Meteorology and Climatology (MeteoSwiss)	5	1.73	1.73
+1718.	China Three Gorges University (CTGU)	4	1.78	1.73
+1719.	Institute of Food Research	7	1.73	1.73
+1720.	National Hellenic Research Foundation (NHRF)	5	1.73	1.73
+1721.	University of Texas Health Science Center at Tyler (UTHSCT)	6	1.72	1.72
+1722.	Novimmune SA	2	1.71	1.71
+1723.	King Abdulaziz City for Science and Technology (KACST)	22	1.71	1.71
+1724.	ALBA Synchrotron	12	1.71	1.71
+1725.	Loyola Marymount University (LMU)	4	1.71	1.71
+1726.	Agricultural Research Centre for International Development (CIRAD)	39	1.70	1.70
+1727.	Norwegian Meteorological Institute	9	1.70	1.70
+1728.	Koç University (KU)	10	1.70	1.70
+1729.	University of Pannonia	5	1.70	1.70
+1730.	Canon Inc.	3	1.70	1.70
+1731.	The Scottish Association for Marine Science (SAMS)	8	1.70	1.70
+1732.	Wildlife Conservation Society (WCS)	13	1.70	1.70
+1733.	Showa Pharmaceutical University	5	1.69	1.69
+1734.	LG Corporation	7	1.69	1.69
+1735.	Ningbo University of Technology	5	1.69	1.69
+1736.	China Jiliang University	9	1.68	1.68
+1737.	University of Pretoria (UP)	14	1.92	1.68
+1738.	Kuwait University (KU)	6	1.68	1.68
+1739.	Kochi University of Technology	6	1.68	1.68
+1740.	North Shore-Long Island Jewish Health System (North Shore-LIJ)	16	1.68	1.68
+1741.	Photonik-Zentrum Kaiserslautern e.V. (PZKL)	20	1.67	1.67
+1742.	Institute for Composite Materials (IVW)	20	1.67	1.67
+1743.	California State University Fresno	24	1.67	1.67
+1744.	Institute of Oceanography and Fisheries	2	1.67	1.67
+1745.	NOXXON Pharma AG	4	1.67	1.67
+1746.	Skolkovo Foundation	18	1.67	1.67
+1747.	JEOL Ltd.	13	1.67	1.67
+1748.	University of Magna Graecia (UMG)	8	1.66	1.66
+1749.	Federal University of Itajubá (UNIFEI)	5	1.81	1.66
+1750.	Tomsk Polytechnic University (TPU)	6	1.65	1.65
+1751.	University of Leoben	6	1.65	1.65
+1752.	University of Dayton	5	1.64	1.64
+1753.	King Faisal Specialist Hospital & Research Centre (KFSH&RC)	15	1.64	1.64
+1754.	University of Basilicata	140	1.89	1.64
+1755.	Chongqing University of Technology	3	1.64	1.64
+1756.	Lieber Institute for Brain Development (LIBD)	8	1.64	1.64
+1757.	Chung Shan Medical University (CSMU)	7	1.64	1.64
+1758.	China Medical University (CMU)	27	1.64	1.64
+1759.	Bayer AG	15	1.64	1.64
+1760.	Lappeenranta University of Technology (LUT)	102	1.80	1.64
+1761.	National Metrology and Testing (LNE)	13	1.91	1.63
+1762.	Reed College	6	1.84	1.63
+1763.	Medical University of Graz (Med Uni Graz)	28	1.63	1.63
+1764.	University of the Free State (UFS)	17	1.73	1.63
+1765.	Belarusian State University (BSU)	114	1.63	1.63
+1766.	Chennai Mathematical Institute (CMI)	4	1.63	1.63
+1767.	Moss Landing Marine Laboratories (MLML)	3	1.63	1.63
+1768.	Industrial Technology Research Institute (ITRI)	13	1.62	1.62
+1769.	Austrian Institute of Technology (AIT)	10	1.62	1.62
+1770.	Tokyo Medical University	5	1.62	1.62
+1771.	University Hospital Southampton NHS Foundation Trust	16	1.62	1.62
+1772.	NorthWest Research Associates, Inc., (NWRA)	11	2.11	1.62
+1773.	Regina Elena National Cancer Institute (IRE)	6	1.61	1.61
+1774.	Chengdu University of Technology (CDUT)	4	1.61	1.61
+1775.	Harbin Normal University (HRBNU)	3	1.61	1.61
+1776.	Utsunomiya University	5	1.62	1.61
+1777.	Far Eastern Federal University (FEFU)	9	2.01	1.61
+1778.	Indonesian Institute of Sciences (LIPI)	8	1.61	1.61
+1779.	Vancouver Coastal Health (VCH)	16	1.63	1.60
+1780.	University of La Serena (ULS)	22	4.30	1.60
+1781.	American University of Beirut (AUB)	9	2.40	1.60
+1782.	Fujian Medical University	8	1.60	1.60
+1783.	University of Beira Interior (UBI)	9	1.60	1.60
+1784.	Slovak University of Technology in Bratislava (STU)	9	2.32	1.60
+1785.	Panjab University (PU)	73	1.60	1.60
+1786.	Jožef Stefan International Postgraduate School (IPS)	10	1.60	1.60
+1787.	Federal Institute for Geosciences and Natural Resources (BGR)	6	1.60	1.60
+1788.	University of the French West Indies and Guiana (UAG)	22	1.59	1.59
+1789.	Charles III University of Madrid (UC3M)	8	1.69	1.59
+1790.	Chapman University	5	1.59	1.59
+1791.	Callaghan Innovation	31	1.59	1.59
+1792.	Exxon Mobil Corporation	4	1.78	1.58
+1793.	Toyota Technological Institute (TTI)	6	1.58	1.58
+1794.	Connecticut College	2	1.57	1.57
+1795.	École Centrale de Lille	23	1.57	1.57
+1796.	National Hospital Organization (NHO)	13	1.57	1.57
+1797.	Dong-A University	4	1.57	1.57
+1798.	Western Kentucky University (WKU)	10	2.28	1.56
+1799.	Norwegian Institute of Marine Research	23	1.56	1.56
+1800.	Walloon Excellence in Lifesciences and Biotechnology (WELBIO)	14	1.56	1.56
+1801.	Konica Minolta, Inc.	3	1.55	1.55
+1802.	Burnet Institute	19	1.55	1.55
+1803.	Shangqiu Normal University (SQNU)	3	1.75	1.55
+1804.	UCB Pharma S.A.	10	1.55	1.55
+1805.	Japan Technological Research Association of Artificial Photosynthetic Chemical Process (ARPChem)	6	1.55	1.55
+1806.	Jinchuan Group Co., Ltd.	8	1.55	1.55
+1807.	Ecole Centrale Marseille	12	1.63	1.54
+1808.	New York Medical College (NYMC)	7	1.54	1.54
+1809.	Chongqing Technology and Business University (CTBU)	6	1.54	1.54
+1810.	Firmenich International SA	3	1.54	1.54
+1811.	Zhejiang Gongshang University (ZJGSU)	4	1.54	1.54
+1812.	Higher Institute for Electronics and Digital Training (ISEN)	21	1.54	1.54
+1813.	University of Valenciennes and Hainaut-Cambrésis	21	1.54	1.54
+1814.	University of Burdwan (B.U.)	3	1.54	1.54
+1815.	Department of Mechanical Engineering, Virginia Tech	3	1.54	1.54
+1816.	National Institute for Research and Development in Microtechnology (IMT)	3	1.54	1.54
+1817.	Mount Allison University	6	1.54	1.54
+1818.	non-affiliated author contributions	9	2.04	1.54
+1819.	CHA University (CHA)	9	1.53	1.53
+1820.	Technical Institute for Superhard and Novel Carbon Materials (FSBI TISNCM)	6	1.53	1.53
+1821.	Anglia Ruskin University	45	1.54	1.53
+1822.	Jiangsu University of Science and Technology (JUST)	5	1.53	1.53
+1823.	Guizhou Medical University (GMU)	5	1.53	1.53
+1824.	NaMLab gGmbH	4	1.53	1.53
+1825.	European Magnetic Field Laboratory (EMFL)	12	1.53	1.53
+1826.	Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)	2	1.52	1.52
+1827.	INESC Microsistemas & Nanotecnologias (INESC MN)	10	1.52	1.52
+1828.	National Research University of Electronic Technology (MIET)	5	1.52	1.52
+1829.	Institut d'Optique Graduate School	10	1.52	1.52
+1830.	The University Centre in Svalbard (UNIS)	12	1.51	1.51
+1831.	Wakayama Medical University	3	1.51	1.51
+1832.	Samara State University	4	1.51	1.51
+1833.	University of Maribor	23	1.51	1.51
+1834.	Laurentian University	8	1.50	1.50
+1835.	Cumhuriyet University	2	1.50	1.50
+1836.	University of Management and Technology (UMT)	3	1.50	1.50
+1837.	Guangdong Pharmaceutical University (GDPU)	5	1.50	1.50
+1838.	Kansai Medical University (KMU)	6	1.49	1.49
+1839.	Tianjin Polytechnic University (TJPU)	5	1.49	1.49
+1840.	Center for Scientific Research and Higher Education of Ensenada (CICESE)	5	1.49	1.49
+1841.	The Royal Children's Hospital Melbourne (RCH)	26	1.49	1.49
+1842.	Korea Meteorological Administration (KMA)	5	1.49	1.49
+1843.	Edmund Mach Foundation	7	1.48	1.48
+1844.	National Agriculture and Food Research Organization (NARO)	5	1.48	1.48
+1845.	AgResearch	13	1.47	1.47
+1846.	Physikalisch-Meteorologisches Observatorium Davos and World Radiation Center (PMOD/WRC)	9	2.79	1.47
+1847.	University of Tampere (UTA)	27	1.47	1.47
+1848.	Shimane University	6	1.47	1.47
+1849.	Institut de Radioastronomie Millimétrique (IRAM)	74	7.35	1.47
+1850.	Asahikawa Medical University	4	1.46	1.46
+1851.	Donald Danforth Plant Science Center	6	1.46	1.46
+1852.	Aerodyne Research, Inc. (ARI)	9	1.46	1.46
+1853.	East Tennessee State University (ETSU)	15	2.86	1.45
+1854.	Baylor Scott & White Health	13	1.45	1.45
+1855.	Iwate University	8	1.68	1.45
+1856.	Guangdong Medical College (GDMC)	5	1.45	1.45
+1857.	Zhengzhou University of Light Industry (ZZULI)	5	1.45	1.45
+1858.	Royal Military College of Canada (RMC)	25	4.08	1.45
+1859.	University of Koblenz and Landau	3	1.45	1.45
+1860.	University of Stirling	9	1.44	1.44
+1861.	Hunan Agricultural University (HAU)	9	1.44	1.44
+1862.	Pacific Biosciences of California, Inc.	6	1.44	1.44
+1863.	University of Havana (UH)	4	1.44	1.44
+1864.	Montpellier SupAgro	28	1.44	1.44
+1865.	Bruker BioSpin GmbH	8	1.43	1.43
+1866.	Beijing Forestry University (BFU)	4	1.43	1.43
+1867.	The Cyprus Institute (CyI)	7	1.43	1.43
+1868.	Kirin Holdings Company Limited	2	1.43	1.43
+1869.	Carlsberg Breweries A/S	4	1.42	1.42
+1870.	Hankuk University of Foreign Studies (HUFS)	3	1.42	1.42
+1871.	Shandong Agricultural University (SDAU)	4	1.42	1.42
+1872.	Chaim Sheba Medical Center	17	1.42	1.42
+1873.	LGC Limited	2	1.42	1.42
+1874.	New England Complex Systems Institute (NECSI)	2	1.42	1.42
+1875.	World Health Organization (WHO)	29	1.41	1.41
+1876.	Zhejiang NHU Company Ltd.	6	1.41	1.41
+1877.	Karl Schwarzschild Observatory (TLS)	50	6.47	1.41
+1878.	University of the Pacific	7	1.55	1.41
+1879.	Chicago State University (CSU)	17	1.41	1.41
+1880.	Aligarh Muslim University (AMU)	16	1.41	1.41
+1881.	Eulji University	4	1.41	1.41
+1882.	Space Science Institute (SSI)	71	4.90	1.41
+1883.	Guangxi University (GXU)	25	3.17	1.41
+1884.	Toyama National College of Technology	5	1.40	1.40
+1885.	Diverchim	3	1.40	1.40
+1886.	Venezuelan Institute for Scientific Research (IVIC)	5	1.83	1.40
+1887.	University of North Carolina at Wilmington (UNCW)	8	1.40	1.40
+1888.	Cleveland State University (CSU)	6	1.40	1.40
+1889.	Embry-Riddle Aeronautical University (ERAU)	6	1.54	1.40
+1890.	Murata Manufacturing Co., Ltd.	6	1.40	1.40
+1891.	Culham Centre for Fusion Energy (CCFE)	5	1.39	1.39
+1892.	University of Las Palmas de Gran Canaria (ULPGC)	6	1.53	1.39
+1893.	CEU San Pablo University	5	1.39	1.39
+1894.	Evonik Industries AG	8	1.39	1.39
+1895.	Pierre Fabre SA	6	1.39	1.39
+1896.	Institute of Nano Science and Technology (INST)	5	1.39	1.39
+1897.	University of Tuscia (UNITUS)	44	1.39	1.39
+1898.	Bu-Ali Sina University	5	2.72	1.38
+1899.	Enamine Ltd.	5	1.38	1.38
+1900.	University of North Bengal (NBU)	4	1.90	1.38
+1901.	Roosevelt University	7	1.38	1.38
+1902.	National Polytechnic Institute (IPN)	18	1.50	1.38
+1903.	Austral University of Chile (UACh)	6	1.38	1.38
+1904.	Japanese Foundation For Cancer Research (JFCR)	12	1.38	1.38
+1905.	Malaghan Institute of Medical Research	11	1.38	1.38
+1906.	Children's Medical Center Dallas, Texas	15	1.38	1.38
+1907.	Fukuoka Institute of Technology (FIT)	9	1.38	1.38
+1908.	Schrödinger, LLC	5	1.37	1.37
+1909.	Jiangxi Science & Technology Normal University (JXSTNU)	3	1.53	1.37
+1910.	Changwon National University	4	1.37	1.37
+1911.	General Motors (GM)	6	1.37	1.37
+1912.	Providence College	5	1.37	1.37
+1913.	Silesian University of Technology (SUT)	3	2.17	1.37
+1914.	University of Agder (UiA)	3	1.37	1.37
+1915.	NYU Shanghai	23	1.37	1.37
+1916.	Shanghai University of Electric Power	6	1.36	1.36
+1917.	Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)	16	1.36	1.36
+1918.	Autonomous University of Baja California (UABC)	2	1.36	1.36
+1919.	Lahore University of Management Sciences (LUMS)	5	1.36	1.36
+1920.	Texas Medical Center (TMC)	4	1.36	1.36
+1921.	Chongqing University of Posts and Telecommunications (CQUPT)	8	1.44	1.36
+1922.	Central Manchester University Hospitals NHS Foundation Trust	33	1.35	1.35
+1923.	Vassar College (Vassar)	10	1.54	1.35
+1924.	Missouri State University (MSU)	10	2.34	1.35
+1925.	Harvey Mudd College	5	1.75	1.35
+1926.	Hohai University (HHU)	9	1.35	1.35
+1927.	University of Pécs (PTE)	5	1.34	1.34
+1928.	National University of Cuyo (UNCUYO)	16	1.44	1.34
+1929.	Towson University	6	2.48	1.34
+1930.	The Nemours Foundation	16	1.34	1.34
+1931.	The Gordon and Betty Moore Foundation	5	1.34	1.34
+1932.	University of Costa Rica (UCR)	13	2.47	1.34
+1933.	University of Technology of Belfort-Montbéliard (UTBM)	9	1.34	1.34
+1934.	ADEKA Corporation	2	1.33	1.33
+1935.	University of Wisconsin-La Crosse (UW-L)	3	2.67	1.33
+1936.	NUSOD Institute LLC	2	1.33	1.33
+1937.	Malvern Instruments Ltd.	2	1.33	1.33
+1938.	Shahrood University of Technology	2	1.33	1.33
+1939.	St. Petersburg State Polytechnic University (SPBSTU)	7	1.53	1.33
+1940.	Aryabhatta Research Institute of Observational-Sciences (ARIES)	22	6.06	1.33
+1941.	Shire	3	1.33	1.33
+1942.	National Engineering Institute in Mechanics and Microtechnologies (ENSMM)	8	1.33	1.33
+1943.	ASL Environmental Sciences Inc.	3	1.33	1.33
+1944.	The University of Perpignan Via Domitia (UPVD)	15	1.32	1.32
+1945.	Changsha University of Science and Technology (CUST)	11	1.37	1.32
+1946.	Kanagawa Academy of Science and Technology (KAST)	6	1.32	1.32
+1947.	Museum of Natural History of Vienna (NHMW)	4	1.32	1.32
+1948.	German Centre for Cardiovascular Research (DZHK)	36	1.32	1.32
+1949.	The New York Stem Cell Foundation (NYSCF)	4	1.32	1.32
+1950.	GATS, Inc.	5	1.39	1.31
+1951.	Austrian Competence Center for Tribology (AC2T)	4	1.31	1.31
+1952.	National Center for Child Health and Development (NCCHD)	8	1.31	1.31
+1953.	Grand Valley State University (GVSU)	3	1.31	1.31
+1954.	Academy of Sciences of Moldova (ASM)	9	1.31	1.31
+1955.	Kongju National University	3	1.30	1.30
+1956.	Tunghai University	5	1.30	1.30
+1957.	Qufu Normal University (QFNU)	3	1.50	1.30
+1958.	Des Moines University (DMU)	3	1.30	1.30
+1959.	The City University of New York (CUNY)	9	1.30	1.30
+1960.	Colby College	9	1.60	1.30
+1961.	State University of New York College of Optometry (SUNY College of Optometry)	6	1.39	1.29
+1962.	Royal Belgian Institute of Natural Sciences	6	1.29	1.29
+1963.	The Pirbright Institute	3	1.29	1.29
+1964.	Sematech Inc.	3	1.29	1.29
+1965.	AgroSup Dijon - National Superior Institute of Agronomic Sciences, Food and the Environment	9	1.29	1.29
+1966.	China National Petroleum Corporation (CNPC)	6	1.29	1.29
+1967.	Korea Atomic Energy Research Institute (KAERI)	7	1.29	1.29
+1968.	Kiel University of Applied Sciences	2	1.29	1.29
+1969.	National Institutes for Food and Drug Control (NIFDC)	4	1.29	1.29
+1970.	Ferdowsi University of Mashhad (FUM)	7	2.49	1.29
+1971.	Eskisehir Osmangazi University	4	1.28	1.28
+1972.	Oberlin College	7	1.40	1.28
+1973.	University of Canberra	4	1.28	1.28
+1974.	Dr. Reddy's Laboratories Ltd.	2	1.28	1.28
+1975.	California Academy of Sciences	4	1.28	1.28
+1976.	Creighton University (CU)	23	1.28	1.28
+1977.	Federal University of Juiz de Fora (UFJF)	76	1.34	1.28
+1978.	Huawei Technologies Co., Ltd.	31	1.28	1.28
+1979.	National Energy Technology Laboratory (NETL)	6	1.27	1.27
+1980.	MEDCOM ADVANCE	4	1.27	1.27
+1981.	Shanghai Ocean University (SHOU)	8	1.27	1.27
+1982.	James Madison University (JMU)	16	1.98	1.27
+1983.	National Center of Biomedical Analysis	10	1.27	1.27
+1984.	Cape Peninsula University of Technology (CPUT)	2	1.27	1.27
+1985.	National Center for Drug Screening	9	1.27	1.27
+1986.	Hauptman-Woodward Medical Research Institute (HWI)	20	1.26	1.26
+1987.	Northeastern Illinois University (NEIU)	3	1.26	1.26
+1988.	Anhui Agricultural University (AAU)	5	1.26	1.26
+1989.	Bahauddin Zakariya University	3	1.26	1.26
+1990.	Dubna International University of Nature, Society and Man	4	1.26	1.26
+1991.	Anhui University of Technology	4	1.25	1.25
+1992.	Tokyo Women's Medical University (TWMU)	13	1.25	1.25
+1993.	Texas Christian University (TCU)	12	1.59	1.25
+1994.	Public University of Navarre (UPNA)	5	1.25	1.25
+1995.	Novozymes	5	1.25	1.25
+1996.	Lingnan Normal University (LNU)	2	1.25	1.25
+1997.	Hiroshima International University	2	1.25	1.25
+1998.	Fu Jen Catholic University (FJU)	11	1.65	1.25
+1999.	University of Richmond	7	2.65	1.25
+2000.	Cheikh Anta Diop University (UCAD)	10	1.25	1.25
+2001.	Teikyo University	7	1.24	1.24
+2002.	Iwate Medical University	4	1.24	1.24
+2003.	National Research Institute of Police Science	2	1.24	1.24
+2004.	Central European University (CEU)	7	1.24	1.24
+2005.	Principia Biopharma, Inc.	2	1.24	1.24
+2006.	The Presbyterian Church in Taiwan (PCT)	4	1.24	1.24
+2007.	Ligue Contre Le Cancer	9	1.23	1.23
+2008.	University of North Carolina at Greensboro	5	1.49	1.23
+2009.	Lowell Observatory	35	5.46	1.23
+2010.	Cardinal Stefan Wyszyński University in Warsaw	3	1.23	1.23
+2011.	Oswaldo Cruz Foundation (FIOCRUZ)	11	1.23	1.23
+2012.	Milwaukee School of Engineering	3	1.23	1.23
+2013.	Rzeszów University of Technology	3	1.23	1.23
+2014.	North Carolina Central University (NCCU)	5	1.23	1.22
+2015.	Bloodworks Northwest	2	1.22	1.22
+2016.	Cambridge Display Technology Ltd	2	1.22	1.22
+2017.	Pritzker School of Medicine, UChicago	13	1.22	1.22
+2018.	Tartu Observatory	19	5.54	1.22
+2019.	Pavol Jozef Šafárik University in Košice	18	1.22	1.22
+2020.	Coventry University	3	1.42	1.22
+2021.	New York Genome Center (NYGC)	28	1.21	1.21
+2022.	Pontifical Catholic University of Rio de Janeiro (PUC-Rio)	47	1.44	1.21
+2023.	Brandenburg University of Technology Cottbus - Senftenberg (BTU)	24	1.21	1.21
+2024.	Rady Children's Hospital-San Diego	14	1.21	1.21
+2025.	St. Olaf College	5	1.38	1.21
+2026.	Schlumberger Limited	4	1.21	1.21
+2027.	King Fahd University of Petroleum and Minerals (KFUPM)	12	1.21	1.21
+2028.	Federal University of Pará (UFPA)	9	1.21	1.21
+2029.	Bavarian Natural History Collections (SNSB)	5	1.21	1.21
+2030.	University of the West Indies (UWI)	10	1.21	1.21
+2031.	National Institute for Public Health and the Environment (RIVM)	8	1.20	1.20
+2032.	Alnylam Pharmaceuticals, Inc.	4	1.20	1.20
+2033.	Raytheon BBN Technologies	4	1.20	1.20
+2034.	Widener University	2	2	1.20
+2035.	K. N. Toosi University of Technology (KNTU)	2	2	1.20
+2036.	Centre for Nano and Soft Matter Sciences	2	1.20	1.20
+2037.	Natural History Museum of Geneva (MHNG)	2	1.20	1.20
+2038.	Trent University	9	1.73	1.20
+2039.	MaineHealth	6	1.20	1.20
+2040.	Government of Western Australia	17	1.20	1.20
+2041.	Nanoplus Nanosystems and Technologies GmbH	2	1.20	1.20
+2042.	Lamar University (LU)	7	1.20	1.20
+2043.	Seikei Gaguen	3	1.19	1.19
+2044.	Harbin Institute of Technology at Weihai (HITW)	3	1.19	1.19
+2045.	Fujitsu Ltd.	6	1.19	1.19
+2046.	National Institute for Laser, Plasma and Radiation Physics (INFLPR)	39	2.53	1.19
+2047.	Biogen Idec	13	1.19	1.19
+2048.	University of South China	16	1.19	1.19
+2049.	Technical University of Cartagena (UPCT)	5	1.56	1.19
+2050.	University of Zielona Góra	17	5.95	1.19
+2051.	National Neuroscience Institute (NNI)	3	1.19	1.19
+2052.	Centro de Estudios de Física del Cosmos de Aragón (CEFCA)	47	5.38	1.19
+2053.	Siemens AG	8	1.19	1.19
+2054.	Bharathiar University (BU)	2	1.19	1.19
+2055.	Metabolon Inc.	4	1.19	1.19
+2056.	National Institute of Metrology	5	1.18	1.18
+2057.	Stellenbosch Institute for Advanced Study (STIAS)	11	1.18	1.18
+2058.	Azabu University	3	1.18	1.18
+2059.	Dutch Polymer Institute (DPI)	13	1.18	1.18
+2060.	Ilia State University	52	4.46	1.17
+2061.	University of Brunei Darussalam (UBD)	7	1.17	1.17
+2062.	Mediterranea University of Reggio Calabria (UNIRC)	41	1.17	1.17
+2063.	Tezpur University	7	1.98	1.17
+2064.	Rocky Mountain Biological Laboratory (RMBL)	3	1.17	1.17
+2065.	University of South Wales	2	1.17	1.17
+2066.	TDK Corporation	2	1.17	1.17
+2067.	Hunan University of Science and Technology (HNUST)	2	1.17	1.17
+2068.	Pharmaceutical Product Development, LLC (PPD)	2	1.17	1.17
+2069.	Anyang Normal University	2	1.17	1.17
+2070.	United Arab Emirates University (UAEU)	11	1.17	1.17
+2071.	Servier Laboratories	5	1.16	1.16
+2072.	Korea Institute of Energy Research (KIER)	7	1.16	1.16
+2073.	Kao Corporation	2	1.16	1.16
+2074.	Kharkov Institute of Physics and Technology (KIPT)	84	1.31	1.16
+2075.	FEI Company	9	1.16	1.16
+2076.	Carleton College	7	1.36	1.16
+2077.	School of Higher Studies in Social Sciences (EHESS)	14	1.16	1.16
+2078.	Southwest Petroleum University (SWPU)	6	1.16	1.16
+2079.	Federal University of Alagoas (UFAL)	3	1.15	1.15
+2080.	The Foundation For Applied Molecular Evolution (FfAME)	3	1.15	1.15
+2081.	Paris Dauphine University	28	1.16	1.15
+2082.	Teijin Ltd.	4	1.15	1.15
+2083.	State University of Maringá (UEM)	4	1.22	1.14
+2084.	University of Kalyani (UoK)	3	1.14	1.14
+2085.	Northern Kentucky University (NKU)	4	1.14	1.14
+2086.	Tunis El Manar University (UTM)	6	1.38	1.14
+2087.	Ramon Llull University (URL)	19	1.14	1.14
+2088.	Sharp Corporation	5	1.14	1.14
+2089.	Center for Physical Sciences and Technology (FTMC)	8	3.10	1.14
+2090.	Dulbecco Telethon Institute (DTI)	11	1.14	1.14
+2091.	Barcelona Supercomputing Center (BSC)	13	1.14	1.14
+2092.	Politehnica University of Bucharest	44	1.14	1.13
+2093.	Gifu Pharmaceutical University (GPU)	2	1.13	1.13
+2094.	St. Francis Xavier University (StFX)	3	1.13	1.13
+2095.	Berry College	2	1.13	1.13
+2096.	University of Bío-Bío (UBB)	4	1.13	1.13
+2097.	Furman University	2	1.13	1.13
+2098.	Arkansas State University (ASU)	2	1.13	1.13
+2099.	Aichi University of Education	6	1.12	1.12
+2100.	Macau University of Science and Technology (MUST)	28	2.12	1.12
+2101.	Izmir Institute of Technology (IZTECH)	18	1.11	1.11
+2102.	Airbus Group	4	1.17	1.11
+2103.	National Center for Genetic Engineering and Biotechnology (BIOTEC)	4	1.11	1.11
+2104.	Harbin University of Science and Technology	3	1.11	1.11
+2105.	National Chengchi University (CNCCU)	2	1.11	1.11
+2106.	Luoyang Normal University	3	1.91	1.11
+2107.	Instituto de Física dos Materiais da Universidade do Porto (IFIMUP)	10	1.11	1.11
+2108.	Qatar University	8	1.11	1.11
+2109.	Shandong Academy of Medical Sciences (SDAMS)	7	1.11	1.11
+2110.	Dublin Institute of Technology (DIT)	2	1.10	1.10
+2111.	Polyera Corporation	8	1.10	1.10
+2112.	St. Cloud State University	3	1.30	1.10
+2113.	Frankfurt Institute for Advanced Studies (FIAS)	39	2	1.10
+2114.	Shiv Nadar University (SNU)	4	1.10	1.10
+2115.	International Institute for Applied Systems Analysis (IIASA)	6	1.10	1.10
+2116.	China Medical University (CMU)	12	1.10	1.10
+2117.	Hydro-Québec	9	1.10	1.10
+2118.	Seattle Children's Hospital	19	1.10	1.10
+2119.	University of Lleida (UDL)	4	1.09	1.09
+2120.	University of London - Royal Veterinary College (RVC)	5	1.09	1.09
+2121.	Remote Sensing Systems (RSS)	2	1.09	1.09
+2122.	Tokyo Metropolitan Institute of Gerontology	2	1.09	1.09
+2123.	Norfolk State University (NSU)	5	1.09	1.09
+2124.	University of Technology of Compiègne (UTC)	3	1.09	1.09
+2125.	Gauhati University	15	1.33	1.09
+2126.	École de Technologie Supérieure (ETS)	9	1.09	1.09
+2127.	Research Institute of Health Sciences (IRSS)	3	1.09	1.09
+2128.	University Children's Hospital Basel (UKBB)	22	1.09	1.09
+2129.	Joanneum Research Forschungsgesellschaft mbH	3	1.08	1.08
+2130.	California State University East Bay	3	1.08	1.08
+2131.	Institute for Stem Cell Biology and Regenerative Medicine (inStem)	6	1.08	1.08
+2132.	South Australian Health and Medical Research Institute (SAHMRI)	6	1.08	1.08
+2133.	Maharaja Sayajirao University of Baroda (MSU)	2	1.08	1.08
+2134.	Sardar Vallabhbhai National Institute of Technology (SVNIT)	2	1.08	1.08
+2135.	École Nationale Supérieure de Mécanique et d'Aérotechnique (ISAE-ENSMA)	4	1.07	1.07
+2136.	All India Institute Of Medical Sciences, New Delhi (AIIMS New Delhi)	4	1.07	1.07
+2137.	Gustavus Adolphus College	3	1.07	1.07
+2138.	Tohoku Institute of Technology	2	1.07	1.07
+2139.	National Kaohsiung Normal University (NKNU)	2	1.07	1.07
+2140.	Chengdu University of Traditional Chinese Medicine (CDUTCM)	2	1.07	1.07
+2141.	University College London Hospitals NHS Foundation Trust (UCLH)	15	1.07	1.07
+2142.	Indian Centre for Space Physics	12	5.26	1.06
+2143.	Astellas Pharma Inc.	7	1.06	1.06
+2144.	Center for Open Science (COS)	2	1.06	1.06
+2145.	Torrey Pines Institute for Molecular Studies (TPIMS)	2	1.06	1.06
+2146.	Agroscope	6	1.06	1.06
+2147.	Stuttgart State Museum of Natural History (SMNS)	3	1.06	1.06
+2148.	Florida Gulf Coast University (FGCU)	4	1.15	1.06
+2149.	Korea Electrotechnology Research Institute (KERI)	4	1.06	1.06
+2150.	Ryukoku University	4	1.06	1.06
+2151.	University of Veterinary Medicine Hanover (TiHo)	13	1.06	1.06
+2152.	CHU Lyon	23	1.06	1.06
+2153.	University of Illinois at Springfield	3	1.28	1.06
+2154.	Yunnan Nationalities University (YNU)	4	1.05	1.05
+2155.	Nantes Atlantic College of Veterinary Medicine, Food Science and Engineering (Oniris)	4	1.05	1.05
+2156.	Middle Tennessee State University (MTSU)	4	1.05	1.05
+2157.	Public Health England (PHE)	14	1.05	1.05
+2158.	Sinopec Corp.	6	1.05	1.05
+2159.	Italian Space Agency (ASI)	99	3.79	1.05
+2160.	Qualcomm Incorporated	4	1.05	1.05
+2161.	Alcatel-Lucent	7	1.05	1.05
+2162.	Denison University	3	1.22	1.04
+2163.	Sophia University	5	1.04	1.04
+2164.	Tokyo University of Marine Science and Technology (TUMSAT)	3	1.04	1.04
+2165.	Brooklyn College of City University of New York (CUNY Brooklyn College)	4	1.04	1.04
+2166.	Asylum Research	2	1.04	1.04
+2167.	National University of Mar Del Plata (UNMdP)	2	1.04	1.04
+2168.	Unilever	3	1.04	1.04
+2169.	Osaka Municipal Technical Research Institute	4	1.03	1.03
+2170.	Jackson State University (JSU)	2	1.03	1.03
+2171.	Luleå University of Technology (LTU)	12	1.50	1.03
+2172.	National Defense Academy of Japan	2	1.03	1.03
+2173.	Augsburg College	3	1.03	1.03
+2174.	Tokyo Metropolitan College of Industrial Technology (TMCIT)	10	1.15	1.03
+2175.	Fukuoka University	8	1.40	1.03
+2176.	University of Dhaka (DU)	8	1.03	1.03
+2177.	Texas Biomedical Research Institute (Texas Biomed)	18	1.03	1.03
+2178.	Sony Corporation	2	1.03	1.03
+2179.	Genome Canada	29	1.02	1.02
+2180.	Calpine Corporation	3	1.02	1.02
+2181.	Biomedical Sciences Research Centre Alexander Fleming (BSRC Fleming)	12	1.02	1.02
+2182.	Santa Clara University	7	1.12	1.02
+2183.	Universidad Nacional del Sur (UNS)	7	1.02	1.02
+2184.	Institute for Memory Impairments and Neurological Disorders (MIND)	3	1.02	1.02
+2185.	Institut Paoli-Calmettes (IPC)	14	1.02	1.02
+2186.	Universidade Federal de Pelotas (UFPel)	3	1.02	1.02
+2187.	Universidad Autónoma de Chile (UA)	2	1.02	1.02
+2188.	TopGaN	3	1.01	1.01
+2189.	Southern Illinois University, Edwardsville (SIUE)	2	1.06	1.01
+2190.	National Institute for Agricultural and Food Research and Technology (INIA)	5	1.01	1.01
+2191.	National Conservatory of Arts and Crafts (CNAM)	12	1.01	1.01
+2192.	Suzhou University of Science and Technology (SUST)	4	1.01	1.01
+2193.	National Museums of Kenya (NMK)	7	1.01	1.01
+2194.	NEC Corporation	7	1.01	1.01
+2195.	Yuan Ze University	3	1.01	1.01
+2196.	Thailand Center of Excellence in Physics (ThEP Center)	6	1.20	1.01
+2197.	Siemens Healthcare Germany	3	1	1
+2198.	China Ministry of Environmental Protection (MEP)	4	1	1
+2199.	Institute of Agrifood Research and Technology (IRTA)	4	1	1
+2200.	Taipei Veterans General Hospital	7	1	1
+2201.	Institute for Plasma Research (IPR)	2	1	1
+2202.	Graduate University of Advanced Technology (GUAT)	1	1	1
+2203.	Asahi Glass Co., Ltd.	1	1	1
+2204.	CEBAF Large Acceptance Spectrometer (CLAS) Collaboration	1	1	1
+2205.	Dibrugarh University	1	1	1
+2206.	Logistics University of PAPF	1	1	1
+2207.	CLAS Collaboration	1	1	1
+2208.	Iuliu Hațieganu University of Medicine and Pharmacy (UMF)	1	1	1
+2209.	Astex Pharmaceuticals	1	1	1
+2210.	St. Mary's College of Maryland (SMCM)	1	1	1
+2211.	Invivotek	1	1	1
+2212.	NanoSonic, Inc.	1	1	1
+2213.	Başkent University	1	1	1
+2214.	National Brain Research Centre (NBRC)	1	1	1
+2215.	Philander Smith College (PSC)	2	1	1
+2216.	Pranalytica, Inc.	1	1	1
+2217.	Xavier University of Louisiana (XULA)	1	1	1
+2218.	Institute of Avian Research "Vogelwarte Helgoland" (IAR)	1	1	1
+2219.	Toko University	1	1	1
+2220.	Federal University of the State of Rio de Janeiro (UNIRIO)	1	1	1
+2221.	Electronic BioSciences (EBS)	1	1	1
+2222.	Defenders of Wildlife	1	1	1
+2223.	American Institute for Behavioral Research and Technology (AIBRT)	1	1	1
+2224.	Sogn og Fjordane University College	1	1	1
+2225.	Devi Ahilya Vishwavidyalaya	1	1	1
+2226.	Kobe Steel, Ltd.	1	1	1
+2227.	Andalusian Centre for Nanomedicine and Biotechnology (BIONAND)	1	1	1
+2228.	Dayalbagh Educational Institute (DEI)	1	1	1
+2229.	Sri Sathya Sai Institute of Higher Learning (SSSIHL)	1	1	1
+2230.	Sweden Ministry of Defence	1	1	1
+2231.	Deenbandhu Chhotu Ram University of Science and Technology (DCRUST University)	1	1	1
+2232.	Royal Tyrrell Museum	1	1	1
+2233.	Indian National Center for Ocean Information Services (INCOIS)	2	1	1
+2234.	Miami Valley Biotech	1	1	1
+2235.	Department of Biological Sciences, UTEP	1	1	1
+2236.	Northeast Dianli University (NEDU)	1	1	1
+2237.	Biomedical Primate Research Centre (BPRC)	1	1	1
+2238.	Dow AgroSciences	1	1	1
+2239.	Blanchette Rockefeller Neurosciences Institute (BRNI)	1	1	1
+2240.	St. John's National Academy of Health Sciences	1	1	1
+2241.	Rafael Advanced Defense Systems Ltd.	2	1	1
+2242.	Cancer Research Technology Ltd. (CRT)	1	1	1
+2243.	Istanbul Kemerburgaz University	3	1	1
+2244.	Bryn Mawr College	1	1	1
+2245.	Kocaeli University	2	1	1
+2246.	Dundalk Institute of Technology (DkIT)	1	1	1
+2247.	Beijing General Research Institute of Mining and Metallurgy (BGRIMM)	1	1	1
+2248.	Boston Biomedical, Inc.	1	1	1
+2249.	Shahid Bahonar University of Kerman (SBUK)	1	1	1
+2250.	Institute for Advanced Sustainability Studies e.V. (IASS)	1	1	1
+2251.	Cheongju University	1	1	1
+2252.	Dynamic Connections	1	1	1
+2253.	UAB Brolis Semiconductors	1	1	1
+2254.	Genetic Modifiers of Huntington’s Disease (GeM-HD) Consortium	1	1	1
+2255.	Parmenides Foundation	1	1	1
+2256.	Beijing Museum of Natural History	2	1	1
+2257.	Government of Nova Scotia	1	1	1
+2258.	Research Institute of Innovative Technology for the Earth (RITE)	1	1	1
+2259.	Cellular Research, Inc.	1	1	1
+2260.	Semiconductor Energy Laboratory (SEL) Co., Ltd.	1	1	1
+2261.	National University of Computer and Emerging Sciences (NUCES)	1	1	1
+2262.	Avid Radiopharmaceuticals	1	1	1
+2263.	Soraa Inc.	1	1	1
+2264.	University of Wisconsin-Platteville	1	1	1
+2265.	Université Euro-Méditerranéenne de Fès (UEMF)	2	1	1
+2266.	Geological Survey of Finland (GTK)	2	1	1
+2267.	Catalent Pharma Solutions	1	1	1
+2268.	Council for Scientific and Industrial Research (CSIR) in South Africa	7	1	1
+2269.	Colgate University	6	1	1
+2270.	Institute of Systems, Information Technologies and Nanotechnologies (ISIT)	4	1	1
+2271.	University of the Philippines Diliman (UPD)	9	1	1
+2272.	Beijing University of Chinese Medicine (BUCM)	7	0.99	0.99
+2273.	Corning Incorporated	5	0.99	0.99
+2274.	Azerbaijan National Academy of Sciences (ANAS)	75	0.99	0.99
+2275.	ConocoPhillips Company	3	0.99	0.99
+2276.	Nokia Corporation	6	0.99	0.99
+2277.	Swedish Institute of Space Physics (IRF)	17	3.12	0.99
+2278.	Children's Hospital of Wisconsin (CHW)	2	0.98	0.98
+2279.	University of Paraíba Valley (UNIVAP)	9	4.91	0.98
+2280.	Federal University of Bahia (UFBA)	14	2.32	0.98
+2281.	Qilu University of Technology (QLUT)	4	0.98	0.98
+2282.	Shanghai University of Traditional Chinese Medicine (SHUTCM)	5	0.98	0.98
+2283.	Myongji University	8	0.98	0.98
+2284.	Shandong University of Technology	3	0.98	0.98
+2285.	non-affiliated author contributions	9	1.90	0.97
+2286.	Zhejiang Jinhua CONBA Bio-pharm. Co., Ltd. (JINHUA CONBA)	3	0.97	0.97
+2287.	Luther College	12	0.97	0.97
+2288.	Presidency University	10	2.19	0.97
+2289.	Ecole Centrale Lyon	11	0.97	0.97
+2290.	Fujian Agriculture and Forestry University (FAFU)	8	0.97	0.97
+2291.	Malmo University (MAH)	8	2.15	0.96
+2292.	Tri Alpha Energy, Inc.	1	0.96	0.96
+2293.	Murdoch University	13	0.96	0.96
+2294.	Federal University of Uberlândia (UFU)	4	0.96	0.96
+2295.	Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)	16	3.28	0.96
+2296.	Sookmyung Women's University	5	0.96	0.96
+2297.	Natural Resources Institute Finland (LUKE)	5	1.49	0.96
+2298.	Foxconn Technology Group	5	0.95	0.95
+2299.	University of Miyazaki	18	1.26	0.95
+2300.	Dokuz Eylül University	4	0.95	0.95
+2301.	Centre Hospitalier Régional Universitaire de Lille (CHRU de Lille)	20	0.95	0.95
+2302.	Profectus Biosciences, Inc. (Profectus)	6	0.95	0.95
+2303.	Institute of Human Genetics (IHG)	20	0.95	0.95
+2304.	Government College of Engineering and Ceramic Technology (GCECT)	4	0.95	0.95
+2305.	Homi Bhabha National Institute (HBNI)	5	1.15	0.95
+2306.	Lycera Corp	2	0.95	0.95
+2307.	E. I. du Pont de Nemours and Company	7	0.95	0.95
+2308.	EcoHealth Alliance	3	0.95	0.95
+2309.	Prince Henry's Institute of Medical Research (PHI)	7	0.94	0.94
+2310.	Department of Health and Human Services (DHHS)	4	0.94	0.94
+2311.	Innsbruck Medical University	3	0.94	0.94
+2312.	Shanxi Medical University (SXMU)	10	0.94	0.94
+2313.	Federal University of Technology - Paraná (UTFPR)	12	1.08	0.94
+2314.	Tennessee State University (TSU)	20	2.70	0.94
+2315.	Kennedy Krieger Institute	7	0.94	0.94
+2316.	Advanced Institutes of Convergence Technology (AICT)	9	0.94	0.94
+2317.	Universidade Cruzeiro do Sul	12	2.61	0.94
+2318.	The Newcastle Upon Tyne Hospitals NHS Foundation Trust (NUTH)	16	0.93	0.93
+2319.	Direction Générale de l'Armement (DGA)	5	0.93	0.93
+2320.	University of Yüzüncü	2	0.93	0.93
+2321.	Hot Springs Research Institute of Kanagawa Prefecture	2	0.93	0.93
+2322.	European Spallation Source ESS AB	8	0.93	0.93
+2323.	Nottingham University Hospitals NHS Trust (NUH)	12	0.93	0.93
+2324.	Ontario Ministry of the Environment and Climate Change (MOECC)	4	0.93	0.93
+2325.	Child and Family Research Institute (CFRI)	13	0.93	0.93
+2326.	JNC Corporation	2	0.93	0.93
+2327.	Bigelow Laboratory for Ocean Sciences	8	0.93	0.93
+2328.	Astronomical Observatory of Belgrade (AOB)	15	4.64	0.93
+2329.	Fujita Health University	6	0.92	0.92
+2330.	Toulouse University Hospital (CHU-Toulouse)	13	0.92	0.92
+2331.	Jining University (JNXY)	2	0.92	0.92
+2332.	The James Hutton Institute	9	0.92	0.92
+2333.	China Institute of Water Resources and Hydropower Research (IWHR)	1	0.92	0.92
+2334.	Indiana University of Pennsylvania (IUP)	2	0.92	0.92
+2335.	Agios Pharmaceuticals, Inc.	3	0.91	0.91
+2336.	Lam Research Corporation	3	0.91	0.91
+2337.	Indian School of Mines (ISM)	3	1.71	0.91
+2338.	California State University Los Angeles (CSULA)	6	0.91	0.91
+2339.	Institute of Physics (IP)	4	0.91	0.91
+2340.	Geophysical Institute of Peru (IGP)	7	1.24	0.91
+2341.	Sangmyung University	4	0.90	0.90
+2342.	NuMat Technologies	1	0.90	0.90
+2343.	Momenta Pharmaceuticals, Inc.	1	0.90	0.90
+2344.	British University in Egypt (BUE)	17	1.84	0.90
+2345.	Osaka Institute of Technology (OIT)	4	0.90	0.90
+2346.	University of Technology of Troyes (UTT)	4	0.90	0.90
+2347.	Kazan National Research Technological University (KNRTU)	1	0.90	0.90
+2348.	American University in Cairo (AUC)	4	0.90	0.90
+2349.	Eastern Illinois University (EIU)	5	0.90	0.90
+2350.	University of Rijeka (UNIRI)	20	1.24	0.89
+2351.	MyCartis	1	0.89	0.89
+2352.	Janssen Pharmaceuticals, Inc.	1	0.89	0.89
+2353.	Williams College	9	1.76	0.89
+2354.	Universidad Autónoma de Chiapas (UNACH)	7	0.92	0.88
+2355.	Hubei University of Chinese Medicine	2	0.88	0.88
+2356.	Manipal University (MU)	13	0.98	0.88
+2357.	Basque Center for Materials, Applications & Nanostructures (BCMaterials)	6	0.88	0.88
+2358.	Saurashtra University	2	0.88	0.88
+2359.	Applied Materials, Inc.	16	0.88	0.88
+2360.	Clayton Foundation for Research	5	0.88	0.88
+2361.	Johnson Controls, Inc.	12	0.88	0.88
+2362.	Hoshi University	5	0.88	0.88
+2363.	University of Peshawar	2	0.88	0.88
+2364.	Wabash College	1	0.88	0.88
+2365.	Military University of Technology	1	0.88	0.88
+2366.	National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA)	11	0.89	0.87
+2367.	SKA South Africa	56	4.32	0.87
+2368.	Akdeniz University	6	1.55	0.87
+2369.	Holon Institute of Technology (HIT)	3	0.87	0.87
+2370.	The Hong Kong Institute of Education	2	0.87	0.87
+2371.	Tasmanian Department of Primary Industries, Parks, Water and Environment (DPIPWE)	3	0.87	0.87
+2372.	Neuroscience Research Australia (NeuRA)	8	0.87	0.87
+2373.	Doğuş University (DOU)	82	0.86	0.86
+2374.	Madurai Kamaraj University (MKU)	4	0.86	0.86
+2375.	Centro de Investigación Príncipe Felipe (CIPF)	7	0.86	0.86
+2376.	Kurume University	9	0.86	0.86
+2377.	Baruch College of the City University of New York (CUNY Baruch College)	7	0.86	0.86
+2378.	Arsanis Biosciences	1	0.86	0.86
+2379.	Charles River Laboratories, Inc.	1	0.86	0.86
+2380.	University of Almeria (UAL)	5	0.86	0.86
+2381.	Addis Ababa University (AAU)	8	0.85	0.85
+2382.	Visterra, Inc.	2	0.85	0.85
+2383.	China Ministry of Water Resources	7	0.85	0.85
+2384.	Leeds Teaching Hospitals NHS Trust (LTHT)	21	0.85	0.85
+2385.	National Cancer Institute “Centro di Riferimento Oncologico” (CRO Aviano)	2	0.85	0.85
+2386.	King Juan Carlos University (URJC)	6	1.45	0.85
+2387.	University of the Philippines Manila (UPM)	2	0.84	0.84
+2388.	Chongqing University of Arts and Sciences (CQWU)	6	0.84	0.84
+2389.	University of Nova Gorica (UNG)	18	0.88	0.84
+2390.	Open University of Israel (OPENU)	6	1.15	0.84
+2391.	Fisk University	33	1.90	0.84
+2392.	Pomeranian Medical University (PMU)	12	0.84	0.84
+2393.	Harris Health	27	0.84	0.84
+2394.	Liaoning University (LNU)	12	0.84	0.84
+2395.	Ministère des Forêts, de la Faune et des Parcs (MFFP)	3	0.84	0.84
+2396.	International AIDS Vaccine Initiative (IAVI)	12	0.84	0.84
+2397.	Metropolitan Autonomous University (UAM)	2	0.83	0.83
+2398.	Advanced Telecommunications Research Institute International (ATR)	3	0.83	0.83
+2399.	Metropolitan State University of Denver	1	0.83	0.83
+2400.	Zhoukou Normal University (ZKNU)	3	0.83	0.83
+2401.	Dalian Nationalities University	1	0.83	0.83
+2402.	Institute of Botany, UB	1	0.83	0.83
+2403.	University of Kurdistan	2	0.83	0.83
+2404.	Facebook, Inc.	1	0.83	0.83
+2405.	Aachen University of Applied Sciences (FH Aachen)	2	0.83	0.83
+2406.	Omega Optics, Inc.	3	0.83	0.83
+2407.	Peregrine Diamonds Ltd.	2	0.83	0.83
+2408.	Idemitsu Kosan Co., Ltd.	2	0.83	0.83
+2409.	Bay Area Environmental Research Institute (BAERI)	23	2.01	0.83
+2410.	University of Applied Sciences and Arts of Southern Switzerland (SUPSI)	4	0.83	0.83
+2411.	Icelandic Met Office (IMO)	4	0.83	0.83
+2412.	Cleave Biosciences	1	0.83	0.83
+2413.	Barcelona Science Park (PCB)	4	0.83	0.83
+2414.	French Institute for Advanced Mechanics (IFMA)	6	0.83	0.83
+2415.	Children's Hospital Oakland Research Institute (CHORI)	5	0.82	0.82
+2416.	University of Algarve (UAlg)	7	0.91	0.82
+2417.	Dijon University Hospital	13	0.82	0.82
+2418.	The Aerospace Corporation	13	1.39	0.82
+2419.	Federal University of Lavras (UFLA)	5	0.82	0.82
+2420.	Ulyanovsk State University (USU)	2	0.82	0.82
+2421.	Gettysburg College	6	0.93	0.82
+2422.	University of Pau and Pays de l'Adour (UPPA)	16	0.82	0.82
+2423.	Centre for Ecological Research and Forestry Applications (CREAF)	13	0.82	0.82
+2424.	Lafayette College	7	0.94	0.82
+2425.	Trudeau Institute	3	0.81	0.81
+2426.	Robert Koch Institute (RKI)	7	0.81	0.81
+2427.	Guilin University of Technology (GUT)	4	0.97	0.81
+2428.	Academic Center for Education, Culture and Research (ACECR)	1	0.81	0.81
+2429.	Alpes Lasers SA	1	0.81	0.81
+2430.	The Heart Research Institute (HRI)	5	0.81	0.81
+2431.	Total S.A.	4	0.81	0.81
+2432.	Laboratory of Instrumentation and Experimental Particle Physics (LIP)	118	1.08	0.81
+2433.	Heidelberg Institute for Stem Cell Technologies and Experimental Medicine (HI-STEM gGmbH)	4	0.81	0.81
+2434.	National University of the Littoral (UNL)	6	0.81	0.81
+2435.	Xinjiang Normal University	3	0.81	0.81
+2436.	African Institute for Mathematical Sciences (AIMS)	33	2.19	0.81
+2437.	Human Longevity, Inc.	2	0.80	0.80
+2438.	Cairo University (CU)	21	1.17	0.80
+2439.	St. Marianna University School of Medicine	5	0.80	0.80
+2440.	Dauphin Island Sea Lab (DISL)	4	0.80	0.80
+2441.	Matrivax R&D Corporation	1	0.80	0.80
+2442.	Samara State Aerospace University (SSAU)	2	0.80	0.80
+2443.	Inner Mongolia University	3	0.80	0.80
+2444.	National Technical University “Kharkov Polytechnic Institute”	1	0.80	0.80
+2445.	Rajiv Gandhi Centre for Biotechnology (RGCB)	1	0.80	0.80
+2446.	State University of New York College at Old Westbury (SUNY Old Westbury)	2	0.80	0.80
+2447.	Anhui University of Science and Technology (AUST)	2	0.80	0.80
+2448.	DeuteRx, LLC	1	0.80	0.80
+2449.	Korea National University of Transportation (KNUT)	1	0.80	0.80
+2450.	Morgan State University	16	0.80	0.80
+2451.	Florida Agricultural and Mechanical University (FAMU)	8	0.80	0.80
+2452.	Gazi University	33	0.80	0.80
+2453.	Yildiz Technical University (YTU)	19	0.80	0.80
+2454.	Sant'Anna School of Advanced Studies of Pisa	32	0.93	0.79
+2455.	Luxembourg Institute of Science and Technology (LIST)	4	0.79	0.79
+2456.	Geological Survey of Spain (IGME)	4	0.79	0.79
+2457.	North Carolina Agricultural and Technical State University (A&T)	7	0.80	0.79
+2458.	Beiersdorf AG	2	0.79	0.79
+2459.	Akzo Nobel N.V.	3	0.79	0.79
+2460.	Center of Regenerative Medicine in Barcelona (CMRB)	1	0.79	0.79
+2461.	Trinity College	2	0.79	0.79
+2462.	H. Lundbeck A/S	3	0.79	0.79
+2463.	French Muscular Dystrophy Association (AFM-Téléthon)	3	0.78	0.78
+2464.	Oak Ridge Associated Universities (ORAU)	22	1.93	0.78
+2465.	University of Teramo (UniTE)	2	0.78	0.78
+2466.	University of Zanjan	2	1.58	0.78
+2467.	National Institute of Technology Calicut (NITC)	3	0.78	0.78
+2468.	Agency for Defense Development (ADD)	4	0.78	0.78
+2469.	Weinberg Medical Physics, LLC	1	0.78	0.78
+2470.	Optitune International Pte. Ltd.	1	0.78	0.78
+2471.	Fairchild Tropical Botanic Garden (FTBG)	3	0.78	0.78
+2472.	Austrian Cooperative Research (ACR)	5	0.78	0.78
+2473.	Micron Technology, Inc.	2	0.78	0.78
+2474.	Institute for Advanced Studies in Basic Sciences (IASBS)	4	1.44	0.77
+2475.	Guangxi University for Nationalities (GXUN)	3	0.77	0.77
+2476.	National Fusion Research Institute (NFRI)	2	0.77	0.77
+2477.	Toyota Physical and Chemical Research Institute	8	0.77	0.77
+2478.	Buskerud and Vestfold University College (HBV)	11	0.77	0.77
+2479.	Bohai University (BU)	5	0.77	0.77
+2480.	Leuphana University of Lueneburg	3	0.77	0.77
+2481.	University of Le Havre	14	2.08	0.77
+2482.	University of Ostrava (OSU)	6	0.76	0.76
+2483.	University of Valle	4	0.76	0.76
+2484.	Danish Meteorological Institute (DMI)	4	1.30	0.76
+2485.	Kantonsspital St.Gallen	5	0.76	0.76
+2486.	Zhejiang Cancer Hospital	6	0.76	0.76
+2487.	National University of General San Martín (UNSAM)	11	0.80	0.76
+2488.	Human Genetics Foundation - Torino (HuGeF - Torino)	8	0.76	0.76
+2489.	National Academy of Sciences of the Republic of Kyrgyzstan (NAN KR)	3	0.76	0.76
+2490.	California State University San Marcos	6	0.76	0.76
+2491.	Instituto Butantan	2	0.76	0.76
+2492.	SP Technical Research Institute of Sweden	5	0.76	0.75
+2493.	Horiba, Ltd.	2	0.75	0.75
+2494.	Paracelsus Medical University (PMU)	5	0.75	0.75
+2495.	University of Lincoln	6	0.75	0.75
+2496.	Okayama University of Science	1	0.75	0.75
+2497.	Centre de Recerca Matemàtica (CRM)	3	0.75	0.75
+2498.	Central Research Institute of Electric Power Industry (CRIEPI)	2	0.75	0.75
+2499.	Saratov State Technical University	3	0.75	0.75
+2500.	Superon GmbH	1	0.75	0.75
+2501.	Sociedad Europea de Análisis Diferencial de Movilidad SL (SEADM)	1	0.75	0.75
+2502.	Institute of Chemical Technology (ICT) Mumbai	2	0.75	0.75
+2503.	Semaphore Scientific Inc.	1	0.75	0.75
+2504.	Baxter Innovations GmbH	2	0.75	0.75
+2505.	University of Nizwa	2	0.75	0.75
+2506.	University of Skövde	1	0.75	0.75
+2507.	AIMEN Technology Centre	1	0.75	0.75
+2508.	Peoples Friendship University of Russia (PFUR)	1	0.75	0.75
+2509.	Jiamusi University	2	0.75	0.75
+2510.	Variable Energy Cyclotron Centre	20	0.75	0.75
+2511.	Natural History Museum of Los Angeles County (NHM)	6	0.75	0.75
+2512.	Autonomous University of Zacatecas (UAZ)	4	0.91	0.75
+2513.	AuraSense Therapeutics	2	0.75	0.75
+2514.	Kogakuin University	15	1.30	0.75
+2515.	Henan Polytechnic University (HPU)	7	0.81	0.75
+2516.	University of Quebec at Trois-Rivieres (UQTR)	6	0.75	0.75
+2517.	National Taiwan Ocean University (NTOU)	4	0.74	0.74
+2518.	St. Petersburg Academic University	8	1.62	0.74
+2519.	Montpellier GenomiX (MGX)	3	0.74	0.74
+2520.	Xinxiang Medical University (XXMU)	6	0.74	0.74
+2521.	Korea Institute of Science and Technology Information (KISTI)	34	0.74	0.74
+2522.	Carbon3D, Inc.	1	0.74	0.74
+2523.	Mpala Research Centre (MRCC)	3	0.74	0.74
+2524.	Quaid-i-Azam University (QAU)	19	0.73	0.73
+2525.	Anna University (AU)	3	0.73	0.73
+2526.	Jeju National University	3	0.73	0.73
+2527.	Albright College	2	0.73	0.73
+2528.	University of Monastir (UM)	3	0.73	0.73
+2529.	International Atomic Energy Agency (IAEA)	6	0.73	0.73
+2530.	China Academy of Chinese Medical Sciences (CACMS)	6	0.73	0.73
+2531.	Tokyo Electron Limited	2	0.73	0.73
+2532.	Bavarian Centre for Applied Energy Research (ZAE Bayern)	5	0.73	0.73
+2533.	University of Waikato	16	1.80	0.73
+2534.	Materia Nova	7	0.73	0.73
+2535.	Simons Foundation	9	0.73	0.73
+2536.	Horizon Discovery Ltd	1	0.73	0.73
+2537.	West Bengal State University (WBSU)	3	0.73	0.73
+2538.	Uzbek Academy of Sciences (UzAS)	8	1.54	0.72
+2539.	Chiba Cancer Center	2	0.72	0.72
+2540.	NanoPhotonica Inc.	1	0.72	0.72
+2541. National Academy of Sciences of Belarus (NASB) 75	0.72	0.72
+2542.	Hybrigenics SA	5	0.72	0.72
+2543.	Health Canada	3	0.72	0.72
+2544.	Joint Institute for VLBI in Europe (JIVE)	18	2.93	0.72
+2545.	Institute for Scientific Interchange (ISI)	7	0.72	0.72
+2546.	The Gatsby Charitable Foundation (Gatsby)	4	0.72	0.72
+2547.	National Institute of Informatics (NII)	7	0.80	0.71
+2548.	Gangneung-Wonju National University (GWNU)	18	0.71	0.71
+2549.	Wellesley College	6	1.27	0.71
+2550.	NovoBiotic Pharmaceuticals, LLC	2	0.71	0.71
+2551.	Korea National University of Education (KNUE)	2	0.71	0.71
+2552.	D. Mendeleyev University of Chemical Technology of Russia	3	0.71	0.71
+2553.	Haldor Topsøe A/S	3	0.71	0.71
+2554.	Harbin Engineering University (HEU)	3	0.71	0.71
+2555.	National Teacher Training School in Agronomy (ENFA)	11	0.71	0.71
+2556.	Siena Biotech S.p.A	2	0.71	0.71
+2557.	University of the Sunshine Coast (USC)	2	0.71	0.71
+2558.	National Institute for Amazonian Research (INPA)	8	0.70	0.70
+2559.	Jiangxi Agricultural University (JXAU)	2	0.70	0.70
+2560.	Shenzhen Star Optoelectronic Technology Co., Ltd. (Star Opto)	4	0.70	0.70
+2561.	National Institute of Health Sciences (NIHS)	3	0.70	0.70
+2562.	Honeywell International, Inc.	6	0.70	0.70
+2563.	non-affiliated author contributions	9	1.09	0.70
+2564.	Xiamen University of Technology (XMUT)	4	0.90	0.70
+2565.	Osaka Dental University	3	0.70	0.70
+2566.	China National Environmental Monitoring Center (CNEMC)	1	0.70	0.70
+2567.	JEOL USA, Inc.	2	0.70	0.70
+2568.	Cherry Instruments	1	0.70	0.70
+2569.	Curiosity Diagnostics	1	0.70	0.70
+2570.	Randolph-Macon College	3	0.70	0.70
+2571.	Zhaoqing University (ZQU)	1	0.70	0.70
+2572.	Tokuyama Corporation	1	0.70	0.70
+2573.	Tamura Corporation	2	0.70	0.70
+2574.	King's College Hospital NHS Foundation Trust	13	0.70	0.70
+2575.	Henan University of Science and Technology	17	0.70	0.70
+2576.	Japan Fine Ceramics Center (JFCC)	8	0.70	0.70
+2577.	GeneDx	6	0.70	0.70
+2578.	Indian Council of Medical Research (ICMR)	4	0.70	0.70
+2579.	National Institute for Health and Welfare (THL)	34	0.70	0.70
+2580.	Abengoa	3	0.69	0.69
+2581.	Seagate Technology LLC	2	0.69	0.69
+2582.	Université Mohammed Premier (UMP)	75	0.70	0.69
+2583.	Paul-Ehrlich-Institut (PEI)	7	0.69	0.69
+2584.	Infineon Technologies AG	1	0.69	0.69
+2585.	Hanoi University of Science (VNU)	29	0.69	0.69
+2586.	Autonomous University of Morelos (UAEM)	3	0.68	0.68
+2587.	Gene By Gene, Ltd.	2	0.68	0.68
+2588.	University of Paris Ouest (Paris 10)	4	0.68	0.68
+2589.	Catalan Institute of Oncology (ICO)	24	0.68	0.68
+2590.	Marmara University	21	0.68	0.68
+2591.	Carmel Medical Center	4	0.68	0.68
+2592.	Federal University of Pampa (Unipampa)	2	0.68	0.68
+2593.	Louisiana Tech University	79	0.68	0.68
+2594.	Israel Ministry of Agriculture and Rural Development	5	0.68	0.68
+2595.	The Royal Marsden NHS Foundation Trust	12	0.68	0.68
+2596.	Université du Québec à Chicoutimi (UQAC)	13	0.68	0.68
+2597.	National Research Centre (NRC)	6	0.67	0.67
+2598.	Aichi Cancer Center	9	0.67	0.67
+2599.	Cukurova University	41	0.67	0.67
+2600.	University of Puerto Rico at Humacao (UPRH)	2	0.67	0.67
+2601.	Oncology Institute of Southern Switzerland (IOSI)	4	0.67	0.67
+2602.	University of Jammu	21	0.67	0.67
+2603.	Bucknell University	10	1.22	0.67
+2604.	School of Clinical and Experimental Medicine, UB	4	0.67	0.67
+2605.	Hubei University of Technology (HUT)	5	0.67	0.67
+2606.	Colorado College (CC)	5	0.67	0.67
+2607.	Ege University	9	3.16	0.67
+2608.	Makerere University	5	0.67	0.67
+2609.	École Nationale Supérieure de Chimie de Clermont-Ferrand (ENSCCF)	5	0.67	0.67
+2610.	Ponce Health Sciences University (PHSU)	2	0.67	0.67
+2611.	Feng Chia University (FCU)	4	0.67	0.67
+2612.	Beijing University of Agriculture (BUA)	2	0.67	0.67
+2613.	Maxim Integrated Inc.	1	0.67	0.67
+2614.	Diagnostics For All (DFA)	1	0.67	0.67
+2615.	Institute of Seismological Research (ISR)	1	0.67	0.67
+2616.	Kao Yuan University	1	0.67	0.67
+2617.	Oregon Research Institute (ORI)	1	0.67	0.67
+2618.	National Changhua University of Education (NCUE)	3	0.67	0.67
+2619.	Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique (CERFACS)	1	0.67	0.67
+2620.	Seacoast Science, Inc.	1	0.67	0.67
+2621.	Russian State Hydrometeorological University (RSHU)	1	0.67	0.67
+2622.	Crocus Technology	2	0.67	0.67
+2623.	Bermuda Institute of Ocean Sciences (BIOS)	1	0.67	0.67
+2624.	Pavel Sukhoi State Technical University of Gomel (GSTU)	1	0.67	0.67
+2625.	Save the Elephants	2	0.67	0.67
+2626.	Korea Polytechnic University	1	0.67	0.67
+2627.	Wolf Science Centre	1	0.67	0.67
+2628.	Sichuan Agricultural University (SAU)	4	0.67	0.67
+2629.	Natera, Inc.	1	0.67	0.67
+2630.	Climate Central, Inc.	1	0.67	0.67
+2631.	Research Institute for Humanity and Nature (RIHN)	1	0.67	0.67
+2632.	Virgin Instruments	1	0.67	0.67
+2633.	Himachal Pradesh University (HPU)	1	0.67	0.67
+2634.	Intellectual Ventures	1	0.67	0.67
+2635.	Okayama Institute for Quantum Physics	1	0.67	0.67
+2636.	BB Plasma Design AB	1	0.67	0.67
+2637.	Fort Wayne Metals	1	0.67	0.67
+2638.	EntreChem, S.L.	1	0.67	0.67
+2639.	University of Prince Edward Island (UPEI)	1	0.67	0.67
+2640.	San Bernardino County Museum	1	0.67	0.67
+2641.	Shanghai Maritime University (SHMTU)	2	0.67	0.67
+2642.	Office National de la Chasse et de la Faune Sauvage (ONCFS)	2	0.67	0.67
+2643.	Mercer University	1	0.67	0.67
+2644.	China University of Mining and Technology (CUMT)	2	0.67	0.67
+2645.	Henkel AG & Co. KGaA	2	0.67	0.67
+2646.	Scion	4	0.67	0.67
+2647.	Siberian Federal University	4	0.83	0.67
+2648.	Mansoura University	9	0.96	0.66
+2649.	Epizyme, Inc.	2	0.66	0.66
+2650.	Pontificia Universidad Javeriana	9	0.66	0.66
+2651.	Royal Museum for Central Africa (RMCA)	3	0.66	0.66
+2652.	New York City College of Technology of City University of New York (CUNY City Tech)	8	1.02	0.66
+2653.	Luxembourg Institute of Health (LIH)	5	0.66	0.66
+2654.	Hewlett-Packard Company	6	0.66	0.66
+2655.	École des Ponts ParisTech	8	0.67	0.66
+2656.	Royal Society for the Protection of Birds (RSPB)	6	0.66	0.66
+2657.	The John B. Pierce Laboratory	3	0.66	0.66
+2658.	College of Charleston	23	2.43	0.66
+2659.	University of Peradeniya	3	0.65	0.65
+2660.	Southern Cross University (SCU)	5	0.65	0.65
+2661.	Rigaku Corporation	4	0.65	0.65
+2662.	Children's Healthcare of Atlanta (CHOA) Inc.	8	0.65	0.65
+2663.	Pharmacyclics Inc.	3	0.65	0.65
+2664.	Shihezi University (SHZU)	4	0.65	0.65
+2665.	CHO Pharma Inc.	1	0.65	0.65
+2666.	Hope Happens	6	0.65	0.65
+2667.	Canadian Solar, Inc.	4	0.65	0.65
+2668.	Carl Zeiss AG	5	0.65	0.65
+2669.	Royal Botanic Gardens, Kew	5	0.65	0.65
+2670.	Israel Atomic Energy Commission (IAEC)	5	0.84	0.64
+2671.	Singapore General Hospital (SGH)	9	0.64	0.64
+2672.	The Australian Wine Research Institute (AWRI)	2	0.64	0.64
+2673.	National Institute of Biology	2	0.64	0.64
+2674.	Kumoh National Institute of Technology (KIT)	3	0.64	0.64
+2675.	Skidmore College	3	0.64	0.64
+2676.	SAGA Light Source Kyushu Synchrotron Light Research Center	2	0.64	0.64
+2677.	GlobalFoundries Inc.	3	0.64	0.64
+2678.	St. Anne's University Hospital Brno (FNUSA)	5	0.64	0.64
+2679.	Instituto Português do Mar e da Atmosfera (IPMA)	4	0.64	0.64
+2680.	Shaoxing University	5	0.64	0.64
+2681.	University of Calicut (CU)	7	1.91	0.64
+2682.	Kunming Medical University (KMU)	5	0.64	0.64
+2683.	Indiana State University (ISU)	4	0.64	0.64
+2684.	Woods Hole Research Center (WHRC)	6	0.64	0.64
+2685.	SomaLogic, Inc.	2	0.64	0.64
+2686.	SINTEF	6	0.64	0.64
+2687.	NHS Greater Glasgow and Clyde (NHSGGC)	14	0.64	0.64
+2688.	Banner Health	5	0.64	0.64
+2689.	International Institute of Information Technology, Hyderabad (IIIT-Hyderabad)	3	1.17	0.64
+2690.	Shaanxi University of Science and Technology (SUST)	3	0.64	0.64
+2691.	Changshu Institute of Technology (CIT)	3	0.64	0.64
+2692.	National Center for Geriatrics and Gerontology (NCGG)	2	0.64	0.64
+2693.	Regulus Therapeutics Inc.	4	0.64	0.64
+2694.	QuantumWise A/S	2	0.64	0.64
+2695.	Deutscher Wetterdienst (DWD)	3	0.65	0.64
+2696.	Solvay SA	8	0.64	0.64
+2697.	Thompson Rivers University	2	0.63	0.63
+2698.	Canary Foundation	6	0.63	0.63
+2699.	Israel Oceanographic & Limnological Research (IOLR) Ltd.	6	0.63	0.63
+2700.	KWS SAAT SE	3	0.63	0.63
+2701.	National Institute for Medical Research (NIMR)	3	0.63	0.63
+2702.	Alaska Department of Fish and Game (ADF&G)	5	0.63	0.63
+2703.	International Centre for Medical Research in Franceville (CIRMF)	3	0.63	0.63
+2704.	Philippine Institute of Volcanology and Seismology (PHIVOLCS)	2	0.63	0.63
+2705.	Pontifical Catholic University of Ecuador (PUCE)	7	1.56	0.63
+2706.	Raytheon Company	20	2.15	0.63
+2707.	Carthage College	4	0.88	0.63
+2708.	Norwegian Institute for Agricultural and Environmental Research (Bioforsk)	4	0.63	0.63
+2709.	Queensland Museum (QM)	1	0.63	0.63
+2710.	Abdelmalek Essaâdi University	
