@@ -49,16 +49,14 @@
 48.	The University of Chicago (UChicago)	721	197.82	168.44
 49.	Ludwig Maximilian University of Munich (LMU)	691	186.42	166.06
 50.	Duke University	507	163.18	163.16
-51. Indian Institutes of Technology (IITs)
-302	170.68	162.59
+51.  Indian Institutes of Technology (IITs) 302	170.68	162.59
 52.	McGill University	576	170.70	162.07
 53.	University of Maryland, College Park (UMCP)	794	181.56	161.85
 54. Leibniz Association 750	199.50	159.77
 55.	Lawrence Berkeley National Laboratory (LBNL)	863	169.97	159.73
 56.	University of North Carolina at Chapel Hill (UNC)	394	164.79	159.47
 57.	New York University (NYU)	500	168.66	156.02
-58. Russian Academy of Sciences (RAS)
-927	220.46	154.82
+58. Russian Academy of Sciences (RAS) 927	220.46	154.82
 59.	The Pennsylvania State University (Penn State)	587	192.06	154.71
 60.	Nankai University (NKU)	334	150.88	150.88
 61.	Weizmann Institute of Science (WIS)	396	156.05	150.86
@@ -153,8 +151,7 @@
 150.	Leiden University	597	146.98	82.11
 151.	The University of Melbourne (UniMelb)	512	94.19	82.03
 152.	Tel Aviv University (TAU)	362	102.11	81.96
-153. National Institute for Material Science (NIMS)
-221	81.43	81.43
+153. National Institute for Material Science (NIMS) 221	81.43	81.43
 154.	Stockholm University	529	103.49	81.22
 155.	University of Hamburg (UHH)	373	93.71	80.38
 156.	Emory University	208	79.72	79.40
@@ -2711,4 +2708,3 @@
 2707.	Carthage College	4	0.88	0.63
 2708.	Norwegian Institute for Agricultural and Environmental Research (Bioforsk)	4	0.63	0.63
 2709.	Queensland Museum (QM)	1	0.63	0.63
-
